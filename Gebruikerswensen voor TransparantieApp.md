@@ -11,8 +11,7 @@ In gesprekken met softwareontwikkelaars en het projectteam is verkend welke data
     <img
       src="media/Simulatie van de transparantieapp.png"
       alt="Schermweergave van een webportaal met de pagina “Dataverwerkingen”. Links staat een navigatiemenu met onderdelen zoals Home, Berichtenbox, Identiteit en Dataverwerkingen (geselecteerd). In het hoofdgedeelte staat een overzicht van dataverwerkingen van de laatste 7 dagen, gefilterd op alle organisaties en activiteiten. Per organisatie (A en B) worden verwerkingsactiviteiten getoond, zoals Kinderopvangtoeslag registreren, Verifieer toeslag, Bereken toeslag en Inzage persoonsgegevens. Rechts van elke activiteit staat een tijdstip (12-12-2025, 09:39:45) en de verwerkingsduur in milliseconden, weergegeven als groene en blauwe balken. Bovenaan is een tijdlijn met datums zichtbaar."
-      style="max-width: 100%; height: auto;"
-    />
+      style="max-width: 100%; height: auto;"  />
   </a>
   <figcaption>
    Afbeelding 1: Eerste versie van simulatie van TransparantieApp

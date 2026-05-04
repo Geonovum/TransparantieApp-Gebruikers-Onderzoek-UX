@@ -40,7 +40,18 @@ Dit prototype is geëvalueerd met eindgebruikers, waarbij specifiek is gekeken n
 De tweede cyclus (Figuur 2) richtte zich op het verfijnen en valideren van het ontwerp. In deze fase zijn inzichten uit de eerste cyclus aangevuld met state-of-the-art kennis, zoals UX-patronen, en input uit co-creatie en vragenlijsten. 
 
 Het ontwerp is vervolgens verder uitgewerkt en toegepast op een tweede casus (VWZ), waarbij de inzichten zijn vertaald naar concrete requirements en ontwerpprincipes. Het resulterende ontwerp is opnieuw geëvalueerd, met als doel te toetsen of eerder geïdentificeerde knelpunten zijn opgelost en of het ontwerp aansluit bij een realistische gebruikscontext.
-
+<figure>
+  <a href="media/CyclesMethod.png">
+    <img
+      src="CyclesMethod.png"
+      alt=""
+      style="max-width: 100%; height: auto;"  />
+  </a>
+  <figcaption>
+   Afbeelding 1: Eerste versie van simulatie van TransparantieApp
+  
+  </figcaption>
+</figure>
 
 Deze variatie in aanpak wordt in dit onderzoek expliciet gedemonstreerd in de toepassing van de methode op het ontwerp van de transparantie-app. In de eerste cyclus lag de nadruk op het verkrijgen van inzicht in gebruikersbehoeften en mentale modellen, terwijl in de tweede cyclus meer focus lag op co-creatie, het toepassen van UX-patronen en het testen binnen een realistische context.
 
