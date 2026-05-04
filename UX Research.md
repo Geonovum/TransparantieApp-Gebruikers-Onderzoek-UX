@@ -8,6 +8,8 @@ Het doel van dit hoofdstuk is niet om een volledige set eisen te formuleren, maa
 
 Het UX-onderzoek richt zich op het begrijpen van hoe burgers omgaan met informatie over het gebruik van hun persoonsgegevens en wat transparantie in deze context voor hen betekent.
 
+Hello
+
 ## Onderzoeksmethode: gebruikersonderzoek bij het ontwerpen van een standaard
 
 ### Begrijpen van de projectcontext
