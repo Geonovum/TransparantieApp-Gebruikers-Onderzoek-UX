@@ -40,15 +40,14 @@ Dit prototype is geëvalueerd met eindgebruikers, waarbij specifiek is gekeken n
 De tweede cyclus (Figuur 2) richtte zich op het verfijnen en valideren van het ontwerp. In deze fase zijn inzichten uit de eerste cyclus aangevuld met state-of-the-art kennis, zoals UX-patronen, en input uit co-creatie en vragenlijsten. 
 
 Het ontwerp is vervolgens verder uitgewerkt en toegepast op een tweede casus (VWZ), waarbij de inzichten zijn vertaald naar concrete requirements en ontwerpprincipes. Het resulterende ontwerp is opnieuw geëvalueerd, met als doel te toetsen of eerder geïdentificeerde knelpunten zijn opgelost en of het ontwerp aansluit bij een realistische gebruikscontext.
+
+
+![Schema van een iteratief ontwerpproces met twee cycli. Cyclus 1 (exploratie en eerste prototype) en cyclus 2 (verfijning en validatie) bestaan beide uit vier stappen: ideate, define, realize en evaluate. De eerste cyclus richt zich op onderzoek, probleemafbakening en een eerste prototype, terwijl de tweede cyclus focust op verfijning, integratie van inzichten en validatie van het ontwerp. Beide cycli leveren respectievelijk inzicht en een gevalideerd ontwerp op.](media/CyclesMethod.png)
+
 <figure>
-  <a href="media/CyclesMethod.png">
-    <img
-      src="CyclesMethod.png"
-      alt=""
-      style="max-width: 100%; height: auto;"  />
-  </a>
+ 
   <figcaption>
-   Afbeelding 1: Eerste versie van simulatie van TransparantieApp
+   Afbeelding 1: Cycles for iteraties van de ontwikkeling van de transparantie app
   
   </figcaption>
 </figure>
