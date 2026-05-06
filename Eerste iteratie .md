@@ -1,7 +1,39 @@
 # Eerste iteratie 
 
 ## Ideate
+
+### Interviews met de klant 
+#### Gesprek met Henk-Erik (softwareontwikkelaar)
+
+In het gesprek met Henk-Erik is ingegaan op de onderliggende architectuur van het systeem en de beschikbare data vanuit bestaande simulaties binnen Digilab.
+[]
+
+Dit gesprek bood waardevol inzicht in zowel de technische mogelijkheden als de beperkingen van het systeem. Daarnaast werd duidelijk welke typen data reeds worden gegenereerd, met name rondom gegevensuitwisseling en besluitvormingsprocessen. Uit de bestaande Digilab-simulaties blijkt dat er al relevante data beschikbaar is, zoals tijdstippen waarop gegevens worden verzonden. Het hergebruik van deze bestaande datasets en simulaties vormt een gunstige basis voor verdere ontwikkeling van de Transparantie-app.
+
+#### Meetings met het projectteam
+
+Tijdens meerdere gesprekken met het projectteam is gefocust op het concretiseren van de doelstellingen van de Transparantie-app. Hierbij is besproken welke functionaliteiten gewenst zijn en welk kernprobleem de applicatie voor burgers dient op te lossen. Deze gesprekken maakten het mogelijk om aannames uit de literatuur te toetsen aan de praktijk van het project.
+
+Een centrale vraag uit de literatuur betrof:
+ **Welke rechten zouden vertegenwoordigd moeten worden in de Transparantie-app?**
+
+Op basis van de teamdiscussies is ervoor gekozen om de focus te leggen op het inzichtelijk maken van de totstandkoming van besluiten op basis van gegevens. Andere AVG-gerelateerde rechten, zoals het indienen van bezwaar, worden buiten beschouwing gelaten. Deze keuze is voornamelijk ingegeven door de complexiteit en doorlooptijd die gepaard gaan met implementatie binnen de overheidscontext. Daarnaast draagt een duidelijke en afgebakende functionaliteit bij aan de begrijpelijkheid en gebruiksvriendelijkheid van de applicatie voor eindgebruikers.
+
+
+
+#### Gesprek met Sabine Geerdes en Elske Derks
+
+In het gesprek met Sabine Geerdes en Elske Derks stond de wettelijke context van de Transparantie-app centraal. Hierbij is onderzocht hoe wettelijke rechten zich verhouden tot de behoeften en verwachtingen van burgers, en waar mogelijke spanningen ontstaan tussen juridische kaders en begrijpelijkheid.
+
+Uit dit gesprek bleek dat de Algemene Verordening Gegevensbescherming (AVG) zich voornamelijk richt op transparantie rondom het gebruik van persoonsgegevens. Er worden echter beperkte eisen gesteld aan het inzichtelijk maken van de besluiten die op basis van deze gegevens worden genomen.
+
+De Transparantie-app beoogt daarmee verder te gaan dan de minimale wettelijke vereisten van de AVG, door niet alleen inzicht te bieden in gegevensgebruik, maar ook in de onderliggende besluitvormingsprocessen. Dit benadrukt het innovatieve en aanvullende karakter van de applicatie binnen de overheidscontext.
+
 ### Inzichten uit literatuuronderzoek
+Ter ondersteuning van de onderzoeksopzet en om de eindgebruiker beter te begrijpen, zijn de volgende rapporten bestudeerd:
+- Grip op eigen gegevens – Danny Lämmerhirt & Julia Jansen (Waag)
+- Kwalitatief burgeronderzoek: gegevens bij besluiten – Bureau Mare
+- Benchmark of factors affecting use of digital products and services across Europe – DIGNITY EU-project
 
 Uit het bestudeerde literatuuronderzoek komen een aantal terugkerende thema’s naar voren:
 
