@@ -114,6 +114,24 @@ ul.index code{color:inherit}
 </style>
 <meta name="description" content="TODO: vul in abstract.md een abstract in.">
 <style>
+.hljs{--base:#fafafa;--mono-1:#383a42;--mono-2:#686b77;--mono-3:#717277;--hue-1:#0b76c5;--hue-2:#336ae3;--hue-3:#a626a4;--hue-4:#42803c;--hue-5:#ca4706;--hue-5-2:#c91243;--hue-6:#986801;--hue-6-2:#9a6a01}
+@media (prefers-color-scheme:dark){
+.hljs{--base:#282c34;--mono-1:#abb2bf;--mono-2:#818896;--mono-3:#5c6370;--hue-1:#56b6c2;--hue-2:#61aeee;--hue-3:#c678dd;--hue-4:#98c379;--hue-5:#e06c75;--hue-5-2:#be5046;--hue-6:#d19a66;--hue-6-2:#e6c07b}
+}
+.hljs{display:block;overflow-x:auto;padding:.5em;color:#383a42;color:var(--mono-1,#383a42);background:#fafafa;background:var(--base,#fafafa)}
+.hljs-comment,.hljs-quote{color:#717277;color:var(--mono-3,#717277);font-style:italic}
+.hljs-doctag,.hljs-formula,.hljs-keyword{color:#a626a4;color:var(--hue-3,#a626a4)}
+.hljs-deletion,.hljs-name,.hljs-section,.hljs-selector-tag,.hljs-subst{color:#ca4706;color:var(--hue-5,#ca4706);font-weight:700}
+.hljs-literal{color:#0b76c5;color:var(--hue-1,#0b76c5)}
+.hljs-addition,.hljs-attribute,.hljs-meta-string,.hljs-regexp,.hljs-string{color:#42803c;color:var(--hue-4,#42803c)}
+.hljs-built_in,.hljs-class .hljs-title{color:#9a6a01;color:var(--hue-6-2,#9a6a01)}
+.hljs-attr,.hljs-number,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-pseudo,.hljs-template-variable,.hljs-type,.hljs-variable{color:#986801;color:var(--hue-6,#986801)}
+.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-symbol,.hljs-title{color:#336ae3;color:var(--hue-2,#336ae3)}
+.hljs-emphasis{font-style:italic}
+.hljs-strong{font-weight:700}
+.hljs-link{text-decoration:underline}
+</style>
+<style>
 
   .sidelabel {
     position: fixed;
@@ -1453,7 +1471,7 @@ ul.index code{color:inherit}
     <h2>
       Geonovum Handreiking<br>
       Werkversie
-      <time class="dt-published" datetime="2025-11-17">17 april 2026</time>
+      <time class="dt-published" datetime="2025-11-17">06 mei 2026</time>
     </h2>
     <dl>
       <dt>Deze versie:</dt><dd class="status">
@@ -1503,7 +1521,7 @@ ul.index code{color:inherit}
   </div>
 <section id="abstract" class="introductory"><h2>Samenvatting</h2><p>TODO: vul in abstract.md een abstract in.</p>
 </section>
-<section id="sotd" class="introductory"><h2>Status van dit document</h2><p>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen stabiel document.</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#introductie"><bdi class="secno">1. </bdi>Introductie</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#leeswijzer"><bdi class="secno">1.1 </bdi>Leeswijzer</a></li></ol></li><li class="tocline"><a class="tocxref" href="#gebruikerswensen-voor-transparantieapp"><bdi class="secno">2. </bdi>Gebruikerswensen voor TransparantieApp</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#x4-1-inzichten-uit-gesprekken-en-projectcontext"><bdi class="secno">2.1 </bdi>4.1 Inzichten uit gesprekken en projectcontext</a></li><li class="tocline"><a class="tocxref" href="#x4-2-juridische-context-en-verwachtingen-van-burgers"><bdi class="secno">2.2 </bdi>4.2 Juridische context en verwachtingen van burgers</a></li><li class="tocline"><a class="tocxref" href="#x4-3-inzichten-uit-literatuuronderzoek"><bdi class="secno">2.3 </bdi>4.3 Inzichten uit literatuuronderzoek</a></li><li class="tocline"><a class="tocxref" href="#x4-4-doelgroepen-en-verschillen-in-informatiebehoefte"><bdi class="secno">2.4 </bdi>4.4 Doelgroepen en verschillen in informatiebehoefte</a></li><li class="tocline"><a class="tocxref" href="#x4-5-hypotheses-voor-ontwerp-en-standaardisatie"><bdi class="secno">2.5 </bdi>4.5 Hypotheses voor ontwerp en standaardisatie</a></li></ol></li><li class="tocline"><a class="tocxref" href="#ux-research-rapport-transparantie-app"><bdi class="secno">3. </bdi>UX Research Rapport – Transparantie-app</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#introductie-0"><bdi class="secno">3.1 </bdi>Introductie</a></li><li class="tocline"><a class="tocxref" href="#onderzoeksmethode-gebruikersonderzoek-bij-het-ontwerpen-van-een-standaard"><bdi class="secno">3.2 </bdi>Onderzoeksmethode: gebruikersonderzoek bij het ontwerpen van een standaard</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#begrijpen-van-de-projectcontext"><bdi class="secno">3.2.1 </bdi>Begrijpen van de projectcontext</a></li><li class="tocline"><a class="tocxref" href="#de-eindgebruiker-centraal-stellen"><bdi class="secno">3.2.2 </bdi>De eindgebruiker centraal stellen</a></li><li class="tocline"><a class="tocxref" href="#het-concept-visueel-en-begrijpelijk-maken"><bdi class="secno">3.2.3 </bdi>Het concept visueel en begrijpelijk maken</a></li><li class="tocline"><a class="tocxref" href="#afbakenen-van-het-probleem-met-gebruik-van-use-cases"><bdi class="secno">3.2.4 </bdi>Afbakenen van het probleem met gebruik van use cases</a></li></ol></li></ol></li><li class="tocline"><a class="tocxref" href="#tof"><bdi class="secno">4. </bdi>Lijst met figuren</a></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Termen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Termen gedefinieerd door verwijzing</a></li></ol></li></ol></nav>
+<section id="sotd" class="introductory"><h2>Status van dit document</h2><p>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen stabiel document.</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#introductie"><bdi class="secno">1. </bdi>Introductie</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#leeswijzer"><bdi class="secno">1.1 </bdi>Leeswijzer</a></li></ol></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Termen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Termen gedefinieerd door verwijzing</a></li></ol></li></ol></nav>
 
 
 <section class="informative" id="introductie"><div class="header-wrapper"><h2 id="x1-introductie"><bdi class="secno">1. </bdi>Introductie</h2><a class="self-link" href="#introductie" aria-label="Permalink for Section 1."></a></div><p><em>Dit onderdeel is niet-normatief.</em></p>
@@ -1540,80 +1558,26 @@ ul.index code{color:inherit}
 </tbody></table>
 <section id="leeswijzer"><div class="header-wrapper"><h3 id="x1-1-leeswijzer"><bdi class="secno">1.1 </bdi>Leeswijzer</h3><a class="self-link" href="#leeswijzer" aria-label="Permalink for Section 1.1"></a></div>
 </section></section>
-<section id="gebruikerswensen-voor-transparantieapp"><div class="header-wrapper"><h2 id="x2-gebruikerswensen-voor-transparantieapp"><bdi class="secno">2. </bdi>Gebruikerswensen voor TransparantieApp</h2><a class="self-link" href="#gebruikerswensen-voor-transparantieapp" aria-label="Permalink for Section 2."></a></div>
-<p>Dit hoofdstuk beschrijft de gebruikerswensen die relevant zijn voor de TransparantieApp. De inzichten zijn gebaseerd op gesprekken met betrokkenen binnen het project, interviews met inhoudelijke experts en literatuuronderzoek naar transparantie, datagebruik en digitale dienstverlening door de overheid. Het doel van dit hoofdstuk is niet om een uitputtende set eisen te formuleren, maar om de belangrijkste gebruikersperspectieven en spanningsvelden te schetsen die richting geven aan het ontwerp van de TransparantieApp en de standaard voor het lezen van logging. </p>
-<section id="x4-1-inzichten-uit-gesprekken-en-projectcontext"><div class="header-wrapper"><h3 id="x2-1-4-1-inzichten-uit-gesprekken-en-projectcontext"><bdi class="secno">2.1 </bdi>4.1 Inzichten uit gesprekken en projectcontext</h3><a class="self-link" href="#x4-1-inzichten-uit-gesprekken-en-projectcontext" aria-label="Permalink for Section 2.1"></a></div>
-<p>In gesprekken met softwareontwikkelaars en het projectteam is verkend welke data momenteel beschikbaar is en welke ambities de TransparantieApp moet ondersteunen. Uit bestaande simulaties binnen Digilab blijkt dat reeds relevante informatie wordt vastgelegd over gegevensuitwisseling en besluitvorming, zoals momenten waarop gegevens worden geraadpleegd of gedeeld. Het hergebruik van deze bestaande data en simulaties wordt gezien als een kansrijke basis voor verdere ontwikkeling, zie afbeelding 1.</p>
-<figure id="fig-afbeelding-1-eerste-versie-van-simulatie-van-transparantieapp">
-  <a href="media/Simulatie van de transparantieapp.png">
-    <img src="media/Simulatie van de transparantieapp.png" alt="Schermweergave van een webportaal met de pagina “Dataverwerkingen”. Links staat een navigatiemenu met onderdelen zoals Home, Berichtenbox, Identiteit en Dataverwerkingen (geselecteerd). In het hoofdgedeelte staat een overzicht van dataverwerkingen van de laatste 7 dagen, gefilterd op alle organisaties en activiteiten. Per organisatie (A en B) worden verwerkingsactiviteiten getoond, zoals Kinderopvangtoeslag registreren, Verifieer toeslag, Bereken toeslag en Inzage persoonsgegevens. Rechts van elke activiteit staat een tijdstip (12-12-2025, 09:39:45) en de verwerkingsduur in milliseconden, weergegeven als groene en blauwe balken. Bovenaan is een tijdlijn met datums zichtbaar." style="max-width: 100%; height: auto;">
-  </a>
-  <figcaption><a class="self-link" href="#fig-afbeelding-1-eerste-versie-van-simulatie-van-transparantieapp">Figuur <bdi class="figno">1</bdi></a> <span class="fig-title">
-   Afbeelding 1: Eerste versie van simulatie van TransparantieApp
-  
-  </span></figcaption>
-</figure>
+<section>
 
 
+<meta charset="utf-8">
+<title>Error</title>
 
 
-<p>Binnen het projectteam is expliciet stilgestaan bij de afbakening van de TransparantieApp. Er is gekozen voor een focus op het inzichtelijk maken van hoe besluiten tot stand komen op basis van gegevens. Andere AVG-rechten, zoals het indienen van bezwaar of het direct corrigeren van gegevens, vallen buiten de scope van de app. Deze keuze is ingegeven door de wens om de functionaliteit eenduidig en begrijpelijk te houden voor eindgebruikers, en om de implementatie binnen de overheid haalbaar te maken.</p>
-<p>Daarnaast zijn lessen opgehaald uit de Rijksapp-filosofie, die sterk inzet op gebruikersgericht ontwerp en consistentie tussen interne (beheer- of admin-)views en de weergave voor burgers. Een belangrijk uitgangspunt hierbij is dat transparantie niet alleen een juridische of technische exercitie is, maar vraagt om een human-centered design benadering, waarbij rekening wordt gehouden met stressvolle en complexe gebruikssituaties.</p>
-</section><section id="x4-2-juridische-context-en-verwachtingen-van-burgers"><div class="header-wrapper"><h3 id="x2-2-4-2-juridische-context-en-verwachtingen-van-burgers"><bdi class="secno">2.2 </bdi>4.2 Juridische context en verwachtingen van burgers</h3><a class="self-link" href="#x4-2-juridische-context-en-verwachtingen-van-burgers" aria-label="Permalink for Section 2.2"></a></div>
-<p>Gesprekken met juridisch deskundigen laten zien dat de AVG primair verplicht tot transparantie over het gebruik van persoonsgegevens, maar minder expliciet is over het inzichtelijk maken van de besluitvorming die op basis van die gegevens plaatsvindt. De TransparantieApp beoogt daarmee verder te gaan dan de minimale wettelijke vereisten.</p>
-<p>Tegelijkertijd blijkt dat de verwachtingen en behoeften van burgers niet één-op-één aansluiten bij juridische definities. Begrippen als ‘besluit’ en ‘gegevensverwerking’ worden door burgers vaak anders geïnterpreteerd dan in wet- en regelgeving. Zo worden sommige overheidsinteracties, zoals het aanvragen van een paspoort, niet ervaren als een besluit, terwijl afwijzingen van toeslagen of vergunningen juist als ingrijpend en beslissend worden gezien. Dit verschil in beleving vraagt om aanvullende uitleg in begrijpelijke taal wanneer juridische terminologie wordt gebruikt.</p>
-</section><section id="x4-3-inzichten-uit-literatuuronderzoek"><div class="header-wrapper"><h3 id="x2-3-4-3-inzichten-uit-literatuuronderzoek"><bdi class="secno">2.3 </bdi>4.3 Inzichten uit literatuuronderzoek</h3><a class="self-link" href="#x4-3-inzichten-uit-literatuuronderzoek" aria-label="Permalink for Section 2.3"></a></div>
-<p>Uit het bestudeerde literatuuronderzoek komen een aantal terugkerende thema’s naar voren:</p>
-<ul>
-<li>Burgers worden geconfronteerd met een versnipperd landschap van instrumenten voor privacy en transparantie, die elk slechts een deel van hun rechten ondersteunen. Dit leidt tot onoverzichtelijkheid en verwarring.</li>
-<li>Inzage- en correctierechten zijn vaak wel geregeld, maar informatie over waarom gegevens worden gebruikt en hoe deze bijdragen aan besluiten ontbreekt veelal.</li>
-<li>Er bestaat geen gestandaardiseerde aanpak voor het inzichtelijk maken van gegevensuitwisseling en besluitvorming over organisatiegrenzen heen.</li>
-<li>Veel toepassingen zijn ontworpen vanuit het perspectief van de organisatie, en minder vanuit de klantreis en informatiebehoefte van de burger.</li>
-<li>Digitale ongelijkheid speelt een belangrijke rol: niet alle burgers beschikken over gelijke digitale vaardigheden of toegang tot digitale middelen.</li>
-</ul>
-<p>Opvallend is dat de behoefte aan transparantie bij burgers vaak situationeel is. Zolang processen probleemloos verlopen, bestaat er doorgaans weinig actieve interesse in het gebruik van gegevens. De behoefte aan inzicht ontstaat vooral wanneer besluiten negatieve gevolgen hebben, zoals financiële consequenties of afwijzingen. Dit lijkt samen te hangen met een relatief hoog basisvertrouwen in de overheid, mede versterkt door positieve ervaringen met voorzieningen als DigiD.</p>
-</section><section id="x4-4-doelgroepen-en-verschillen-in-informatiebehoefte"><div class="header-wrapper"><h3 id="x2-4-4-4-doelgroepen-en-verschillen-in-informatiebehoefte"><bdi class="secno">2.4 </bdi>4.4 Doelgroepen en verschillen in informatiebehoefte</h3><a class="self-link" href="#x4-4-doelgroepen-en-verschillen-in-informatiebehoefte" aria-label="Permalink for Section 2.4"></a></div>
-<p>Op basis van literatuur en gesprekken zijn grofweg drie doelgroepen te onderscheiden:</p>
-<ul>
-<li><strong>De actieve inzagezoekende burger</strong>, die expliciet wil weten welke gegevens zijn gebruikt en hoe deze hebben bijgedragen aan een besluit.</li>
-<li><strong>De pragmatische, vertrouwende burger</strong>, die uitgaat van een goed functionerende overheid en pas behoefte krijgt aan inzicht wanneer iets misgaat.</li>
-<li><strong>De kwetsbare burger</strong>, waaronder ouderen, mensen met een beperking en sommige groepen immigranten, die vaker drempels ervaren in digitale dienstverlening.</li>
-</ul>
-<p>Deze groepen verschillen sterk in hun informatiebehoefte, taalgebruik en mate van regie die zij wensen. Waar de ene burger behoefte heeft aan detail en controle, zoekt de andere vooral bevestiging dat processen correct verlopen en duidelijke handelingsperspectieven wanneer dat niet het geval is.</p>
-</section><section id="x4-5-hypotheses-voor-ontwerp-en-standaardisatie"><div class="header-wrapper"><h3 id="x2-5-4-5-hypotheses-voor-ontwerp-en-standaardisatie"><bdi class="secno">2.5 </bdi>4.5 Hypotheses voor ontwerp en standaardisatie</h3><a class="self-link" href="#x4-5-hypotheses-voor-ontwerp-en-standaardisatie" aria-label="Permalink for Section 2.5"></a></div>
-<p>De beschreven gebruikerswensen leiden tot een aantal aandachtspunten voor de TransparantieApp en de standaard voor het lezen van logging:</p>
-<ul>
-<li>Transparantie moet waarschijnlijk gelaagd worden aangeboden, zodat gebruikers zelf kunnen bepalen hoeveel detail zij willen zien.</li>
-<li>Uitleg dient aan te sluiten bij het taalgebruik en de belevingswereld van burgers, en niet uitsluitend bij juridische of technische definities.</li>
-<li>De app moet rekening houden met stressvolle gebruikssituaties, waarin burgers grip zoeken en snel willen begrijpen wat er is gebeurd en wat zij kunnen doen.</li>
-<li>Een standaard aanpak is nodig om informatie over dataverwerkingen consistent en vergelijkbaar te presenteren, maar mag niet leiden tot een one-size-fits-all benadering die onvoldoende ruimte laat voor gebruikersverschillen.</li>
-</ul>
-<p>Deze inzichten vormen input voor vervolgonderzoek en het ontwikkelen van prototypes, die gebruikt zullen worden om aannames te toetsen en gebruikerswensen verder te verfijnen.</p>
-</section></section>
-<section id="ux-research-rapport-transparantie-app"><div class="header-wrapper"><h2 id="x3-ux-research-rapport-transparantie-app"><bdi class="secno">3. </bdi>UX Research Rapport – Transparantie-app</h2><a class="self-link" href="#ux-research-rapport-transparantie-app" aria-label="Permalink for Section 3."></a></div>
-<section id="introductie-0"><div class="header-wrapper"><h3 id="x3-1-introductie"><bdi class="secno">3.1 </bdi>Introductie</h3><a class="self-link" href="#introductie-0" aria-label="Permalink for Section 3.1"></a></div>
-<p>Dit hoofdstuk beschrijft de gebruikersbehoeften die relevant zijn voor de TransparantieApp. De inzichten zijn gebaseerd op gesprekken met betrokkenen binnen het project, interviews met inhoudelijke experts en literatuuronderzoek naar transparantie, datagebruik en digitale overheidsdienstverlening.</p>
-<p>Het doel van dit hoofdstuk is niet om een volledige set eisen te formuleren, maar om de belangrijkste gebruikersperspectieven en spanningsvelden te schetsen die richting geven aan het ontwerp van de TransparantieApp en de bijbehorende standaard voor het lezen van logging data.</p>
-<p>Het UX-onderzoek richt zich op het begrijpen van hoe burgers omgaan met informatie over het gebruik van hun persoonsgegevens en wat transparantie in deze context voor hen betekent.</p>
-</section><section id="onderzoeksmethode-gebruikersonderzoek-bij-het-ontwerpen-van-een-standaard"><div class="header-wrapper"><h3 id="x3-2-onderzoeksmethode-gebruikersonderzoek-bij-het-ontwerpen-van-een-standaard"><bdi class="secno">3.2 </bdi>Onderzoeksmethode: gebruikersonderzoek bij het ontwerpen van een standaard</h3><a class="self-link" href="#onderzoeksmethode-gebruikersonderzoek-bij-het-ontwerpen-van-een-standaard" aria-label="Permalink for Section 3.2"></a></div>
-<section id="begrijpen-van-de-projectcontext"><div class="header-wrapper"><h4 id="x3-2-1-begrijpen-van-de-projectcontext"><bdi class="secno">3.2.1 </bdi>Begrijpen van de projectcontext</h4><a class="self-link" href="#begrijpen-van-de-projectcontext" aria-label="Permalink for Section 3.2.1"></a></div>
-<p>Het onderzoek begon met gesprekken met verschillende stakeholders, waaronder de projectleider, juristen, experts op het gebied van datatransparantie binnen de overheid en de ontwerper van de VO-Rijkapp.</p>
-<p>Deze gesprekken gaven inzicht in het spanningsveld waarin het project zich bevindt en de verschillende belangen die daarin samenkomen. Door deze context vroegtijdig scherp te krijgen, kon het gebruikersonderzoek beter aansluiten op zowel de behoeften van stakeholders als die van eindgebruikers. Tegelijkertijd droeg dit bij aan draagvlak binnen en buiten de organisatie.</p>
-</section><section id="de-eindgebruiker-centraal-stellen"><div class="header-wrapper"><h4 id="x3-2-2-de-eindgebruiker-centraal-stellen"><bdi class="secno">3.2.2 </bdi>De eindgebruiker centraal stellen</h4><a class="self-link" href="#de-eindgebruiker-centraal-stellen" aria-label="Permalink for Section 3.2.2"></a></div>
-<p>Een belangrijk uitgangspunt van dit project was het centraal stellen van de eindgebruiker. Dit betekent dat empathie en begrip voor de gebruiker een expliciete rol spelen in ontwerpkeuzes en discussies gedurende het ontwikkelproces.</p>
-<p>Om de eindgebruiker tastbaar en bespreekbaar te maken binnen het team, is gebruikgemaakt van persona’s. Persona’s zijn fictieve, maar op onderzoek gebaseerde representaties van gebruikers waarin doelen, behoeften en gedrag worden samengebracht. Ze helpen om abstracte doelgroepen concreet te maken en ondersteunen het team bij het nemen van gebruikersgerichte beslissingen.</p>
-<p>De persona’s zijn in eerste instantie gebaseerd op literatuuronderzoek. Hoewel ze idealiter voortkomen uit primair gebruikersonderzoek, boden ze in deze fase al waardevolle inzichten in de context waarin burgers zich bevinden. Burgers hebben namelijk te maken met verschillende externe factoren die invloed hebben op hun gedrag en keuzes. Door deze context mee te nemen, wordt het beter te begrijpen waarom gebruikers op bepaalde manieren reageren op transparantie over datagebruik.</p>
-</section><section id="het-concept-visueel-en-begrijpelijk-maken"><div class="header-wrapper"><h4 id="x3-2-3-het-concept-visueel-en-begrijpelijk-maken"><bdi class="secno">3.2.3 </bdi>Het concept visueel en begrijpelijk maken</h4><a class="self-link" href="#het-concept-visueel-en-begrijpelijk-maken" aria-label="Permalink for Section 3.2.3"></a></div>
-<p>Omdat het onderwerp van dit project abstract en technisch van aard is, is ervoor gekozen om al vroeg in het proces prototypes te ontwikkelen. Dit stelt gebruikers in staat om het concept te ervaren, in plaats van het alleen te moeten begrijpen op basis van uitleg.</p>
-<p>Binnen dit project is gebruikgemaakt van AI-ondersteunde prototyping via Figma Make. Dit faciliteerde snelle iteraties en het verkennen van meerdere ontwerpvarianten in een vroeg stadium van het ontwerpproces. Hierdoor konden ideeën sneller worden gevalideerd met eindgebruikers. Deze werkwijze sluit aan bij een exploratieve UX-aanpak, waarin het genereren en testen van ideeën centraal staat. De interactieve prototypes gaven gebruikers de ruimte om zelfstandig de applicatie te navigeren en een eigen mening te vormen.</p>
-</section><section id="afbakenen-van-het-probleem-met-gebruik-van-use-cases"><div class="header-wrapper"><h4 id="x3-2-4-afbakenen-van-het-probleem-met-gebruik-van-use-cases"><bdi class="secno">3.2.4 </bdi>Afbakenen van het probleem met gebruik van use cases</h4><a class="self-link" href="#afbakenen-van-het-probleem-met-gebruik-van-use-cases" aria-label="Permalink for Section 3.2.4"></a></div>
-<p>Het domein van dit project is breed en omvat een groot aantal overheidsorganisaties. Om het onderzoek behapbaar te maken voor deelnemers, is ervoor gekozen om te werken met concrete use cases.</p>
-<p>Er zijn twee situaties geselecteerd:</p>
-<ul>
-<li>het gebruik van persoonsgegevens binnen de BRP</li>
-<li>het bepalen van de WOZ-waarde van een woning</li>
-</ul>
-</section></section></section>
+<pre aria-busy="false"><code class="hljs">Cannot GET /Gebruikerswensen%20voor%20TransparantieApp.md</code></pre>
+
+</section>
+<section>
+
+
+<meta charset="utf-8">
+<title>Error</title>
+
+
+<pre aria-busy="false"><code class="hljs">Cannot GET /UX%20Research.md</code></pre>
+
+</section>
 
 
 
@@ -1623,14 +1587,7 @@ ul.index code{color:inherit}
 
 
 
-<section id="tof"><div class="header-wrapper"><h2 id="x4-lijst-met-figuren"><bdi class="secno">4. </bdi>Lijst met figuren</h2><a class="self-link" href="#tof" aria-label="Permalink for Section 4."></a></div><ul class="tof">
-        <li class="tofline">
-    <a class="tocxref" href="#fig-afbeelding-1-eerste-versie-van-simulatie-van-transparantieapp"><span class="self-link">Figuur <bdi class="figno">1</bdi></span> <span class="fig-title">
-   Afbeelding 1: Eerste versie van simulatie van TransparantieApp
-  
-  </span></a>
-  </li>
-      </ul></section>
+<section id="tof"></section>
 <section id="index" class="appendix"><div class="header-wrapper"><h2 id="a-index"><bdi class="secno">A. </bdi>Index</h2><a class="self-link" href="#index" aria-label="Permalink for Appendix A."></a></div><section id="index-defined-here">
     <div class="header-wrapper"><h3 id="a-1-termen-gedefinieerd-door-deze-specificatie"><bdi class="secno">A.1 </bdi>Termen gedefinieerd door deze specificatie</h3><a class="self-link" href="#index-defined-here" aria-label="Permalink for Appendix A.1"></a></div>
     <ul class="index">
