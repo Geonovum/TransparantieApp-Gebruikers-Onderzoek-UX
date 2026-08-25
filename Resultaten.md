@@ -196,14 +196,48 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 
 ### Prototype 2: Overzicht WOZ -gerichte design
+                  
+<p align="center">
+  <img
+    src="./media/image21.png"
+    width="48%"
+    alt="Scherm voor het selecteren van specifieke datadomeinen, zoals Wonen en leefomgeving."
+  />
+  <img
+    src="./media/image19.png"
+    width="48%"
+    alt="Welkomstscherm van het WOZ-overzicht met gebruikersinformatie en statistieken."
+  />
+</p>
 
-| <img src="./media/image21.png" style="width:2.97917in;height:6.44444in" alt="Scherm voor het selecteren van specifieke datadomeinen zoals wonen en leefomgeving." /> | <img src="./media/image19.png" style="width:2.97917in;height:6.44444in" alt="Welkomstscherm van het WOZ-overzicht met gebruikersinformatie en statistieken." />               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./media/image32.png" style="width:2.97917in;height:6.44444in" alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van updates." />                  |                                                                                                                                                                               |
-| <img src="./media/image6.png" style="width:2.78125in;height:9.18147in" />                                                                                            | <img src="./media/image6.png" style="width:2.84375in;height:9.38103in" alt="Detailweergave van een gegevensuitwisselingsproces met stappen van verzending naar ontvangst." /> |
-| <img src="./media/image6.png" style="width:2.84375in;height:9.06853in" />                                                                                            |                                                                                                                                                                               |
+<p align="center">
+  <img
+    src="./media/image32.png"
+    width="48%"
+    alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van updates."
+  />
+</p>
 
+<p align="center">
+  <img
+    src="./media/image6.png"
+    width="48%"
+    alt="Eerste gedeelte van de detailweergave van een gegevensuitwisselingsproces."
+  />
+  <img
+    src="./media/image6.png"
+    width="48%"
+    alt="Detailweergave van een gegevensuitwisselingsproces met stappen van verzending naar ontvangst."
+  />
+</p>
 
+<p align="center">
+  <img
+    src="./media/image6.png"
+    width="48%"
+    alt="Vervolg van de detailweergave van het gegevensuitwisselingsproces."
+  />
+</p>
 
 ### Evaluatie (Evaluate)
 
