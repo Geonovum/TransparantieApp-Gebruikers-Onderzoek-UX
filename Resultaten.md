@@ -216,6 +216,7 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
     alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van recente updates."
   />
   <img
+     width="48%"
     src="./media/image4.png"
     alt="Detailweergave van een gegevensuitwisselingsproces met de verschillende verwerkingsstappen."
   />
@@ -428,18 +429,53 @@ Een prominente 'Waarom'-knop bij elke processtap die een transparantie component
 **Samenvatting**
 
 Dit concept verlaagt de drempel voor transparantie door uitleg een integraal onderdeel te maken van de interface.
+<p align="center">
+  <img
+    src="./media/image12.jpg"
+    style="width:100%;height:auto;transform:rotate(180deg);"
+    alt="Eerste conceptschetsen van de Waarom-knop en transparantiecomponent."
+  />
+</p>
 
-<img src="./media/image12.jpg" style="width:6.26772in;height:4.69444in" />
+<p>
+  <strong>Figuur 7.</strong>
+  <em>Eerste conceptschetsen van de ‘Waarom-knop’ en transparantiecomponent. De schets toont hoe uitleg over besluitvorming, zoals de WOZ-waarde, direct toegankelijk kan worden gemaakt in de interface.</em>
+</p>
 
-***Figuur 7.** Eerste conceptschetsen van de 'Waarom-knop' en transparantiecomponent. De schets toont hoe uitleg over besluitvorming (zoals de WOZ-waarde) direct toegankelijk gemaakt kan worden in de interface.*
+<p align="center">
+  <img
+    src="./media/image30.jpg"
+    style="width:100%;height:auto;"
+    alt="Aanvullende conceptschets van de transparantiecomponent met uitleg over de WOZ-berekening."
+  />
+</p>
 
-<img src="./media/image45.jpg" style="width:6.26772in;height:8.36111in" />
+<p>
+  <strong>Figuur 8.</strong>
+  <em>Aanvullende schets van de transparantiecomponent waarin de gelaagde opbouw van informatie wordt verkend.</em>
+</p>
 
-<img src="./media/image22.jpg" style="width:6.26772in;height:8.36111in" />***Figuur 8.** Aanvullende schetsen van de transparantiecomponent waarin de gelaagde opbouw van informatie wordt verkend.*
+<p align="center">
+  <img
+    src="./media/image27.jpg"
+    style="width:100%;height:auto;"
+    alt="Conceptschets van een stapsgewijze uitleg over de WOZ-waarde."
+  />
+</p>
 
-<img src="./media/image37.png" style="width:6.26772in;height:4.88889in" />
+<p align="center">
+  <img
+    src="./media/image28.png"
+    style="width:100%;height:auto;"
+    alt="Uitgewerkte interfaceschermen met uitleg over de WOZ-waarde, gebruikte gegevens en berekening."
+  />
+</p>
 
-***Figuur 9**. Detailweergave van de interface met de 'Waarom'-uitleg voor specifieke processtappen.*
+<p>
+  <strong>Figuur 9.</strong>
+  <em>Detailweergaven van de interface met de ‘Waarom’-uitleg voor specifieke processtappen.</em>
+</p>
+
 
 #### Concept 2 – Hulp & Begeleiding (Els)
 
