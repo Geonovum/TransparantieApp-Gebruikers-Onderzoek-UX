@@ -617,37 +617,73 @@ Qua gemiddeld gerapporteerd gebruiksgemak lagen de tijdlijnversie en de organisa
 
 In grote lijnen suggereert de data dus dat de organisatieversie beter werkt dan de tijdlijnversie, maar slechts marginaal. Bij het nader bekijken van de individuele taken, worden echter relevantere verschillen zichtbaar (zie figuur 13).
 
-<img src="./media/image12.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image16.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak per taak voor de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 13: Gemiddeld gebruiksgemak per taak, vergelijking tussen beide versies
+**Figuur 13.** *Gemiddeld gebruiksgemak per taak, vergeleken tussen de tijdlijnversie en de organisatieversie.*
 
-<img src="./media/image46.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image39.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 1 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 14: Gemiddeld gebruiksgemak taak 1
+**Figuur 14.** *Gemiddeld gebruiksgemak voor taak 1.*
 
 Zoals te zien was er geen significant verschil in ervaren gebruiksgemak tussen de twee versies wat betreft het vinden van de organisatie die de verwijsbrief van de gebruiker gedeeld heeft, hoewel de voorkeur lichtelijk naar de tijdlijnversie ging (5,6 tegen 5,2). Er was wel in beide gevallen verwarring over de juiste navigatie, zoals eerder in het document omschreven werd.
 
-<img src="./media/image13.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image10.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 2 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 15: Gemiddeld gebruiksgemak taak 2
+**Figuur 15.** *Gemiddeld gebruiksgemak voor taak 2.*
 
 Ook voor het vinden van de laatste gegevensuitwisseling was er geen groot verschil in ervaren gebruikersgemak. In dit geval had de organisatieversie een minimale voorkeur (6,6 tegen 6.2), maar het slagingspercentage van deze taak was in beide gevallen 100%.
 
-<img src="./media/image26.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image24.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 3 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 16: Gemiddeld gebruiksgemak taak 3
+**Figuur 16.** *Gemiddeld gebruiksgemak voor taak 3.*
 
 Dit was de eerste taak waarin een significant verschil werd waargenomen. Het downloaden van de tijdlijn was voor testers van de tijdlijnversie simpel, terwijl twee van de testers van de organisatievisie er niet in slaagden om de taak te voltooien. Met een score van 4,2 tegen 6,4, een verschil van ruim 31% ervaren gebruiksgemak, is dit duidelijk een zwakte van de organisatieversie.
 
-<img src="./media/image14.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image17.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 4 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 17: Gemiddeld gebruiksgemak taak 4
+**Figuur 17.** *Gemiddeld gebruiksgemak voor taak 4.*
 
 Het gemak van het vinden van alle documenten bij een specifieke organisatie liep nog verder uiteen: drie falende testers bij de tijdlijnversie versus één bij de organisatieversie, scores van 2,2 tegen 5,2, een verschil van 43%. Dit resultaat maakt duidelijk dat het organisatiefilter op de tijdlijnversie significant minder goed werkt voor eindgebruikers dan de organisatievisie als het aankomt op het vinden van data per organisatie.
 
-<img src="./media/image25.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image22.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 5 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 18: Gemiddeld gebruiksgemak taak 5
+**Figuur 18.** *Gemiddeld gebruiksgemak voor taak 5.*
 
 De laatste taak, het uitzoeken welke organisaties betrokken waren bij de meest recente gegevensuitwisseling, scoorde in beide versies identiek (6,2) en had in beide gevallen een slagingspercentage van 100%.
 
@@ -667,15 +703,27 @@ Waarschijnlijk is de beste optie om gebruikers zowel een tijdlijn overzicht als 
 
 Uit de gebruikerstest blijkt dat de knop **Gegevensuitwisseling** over het algemeen goed vindbaar is. Van de tien deelnemers vonden er acht direct de juiste plek en uiteindelijk slaagden per variant vier van de vijf deelnemers erin om de gevraagde informatie te vinden. Tegelijkertijd blijkt dat de mentale verwachting van gebruikers niet altijd overeenkomt met de gekozen navigatiestructuur. Vier van de tien deelnemers gaven aan dat het slechts gedeeltelijk duidelijk was waar ze moesten zoeken, één van de tien gaf aan dat het totaal niet duidelijk was.
 
-<img src="./media/image47.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image40.png"
+    width="100%"
+    alt="Staafdiagram met antwoorden op de vraag of direct duidelijk was waar naar de verwijsbrief gezocht moest worden."
+  />
+</p>
 
-Figuur 19: Inventarisatie duidelijkheid waar te zoeken naar de verwijsbrief.
+**Figuur 19.** *Inventarisatie van de duidelijkheid over waar gebruikers naar de verwijsbrief moesten zoeken.*
 
 In hun uitweiding over waar deelnemers hadden verwacht te moeten zoeken werden vooral **Documenten** en **Dossier** genoemd, zie figuur 20.
 
-<img src="./media/image49.png" style="width:6.26772in;height:3.76389in" />
+<p align="center">
+  <img
+    src="./media/image20.png"
+    width="100%"
+    alt="Staafdiagram met het aantal deelnemers dat verschillende locaties noemde tijdens het zoeken naar de verwijsbrief."
+  />
+</p>
 
-Figuur 20: Aantal keren dat een specifieke locatie genoemd werd tijdens het zoeken naar de verwijsbrief
+**Figuur 20.** *Aantal keren dat een specifieke locatie werd genoemd tijdens het zoeken naar de verwijsbrief.*
 
 #### Ontvangers, verzenders en betrokken partijen
 
