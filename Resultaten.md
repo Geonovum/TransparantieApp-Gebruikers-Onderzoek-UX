@@ -341,17 +341,35 @@ Een prominente 'Waarom'-knop bij elke processtap die een transparantie component
 
 Dit concept verlaagt de drempel voor transparantie door uitleg een integraal onderdeel te maken van de interface.
 
-<img src="./media/image41.jpg" style="width:6.26772in;height:4.69444in" />
+<p align="center">
+  <img
+    src="./media/image9-gedraaid.jpg"
+    width="100%"
+    alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers."
+  />
+</p>
 
-***Figuur 7.** Eerste conceptschetsen van de 'Waarom-knop' en transparantiecomponent. De schets toont hoe uitleg over besluitvorming (zoals de WOZ-waarde) direct toegankelijk gemaakt kan worden in de interface.*
+**Figuur 10.** *Conceptschets voor ‘Hulp & Begeleiding’, met focus op toegankelijke navigatie voor kwetsbare burgers.*
 
-<img src="./media/image45.jpg" style="width:6.26772in;height:8.36111in" />
+<p align="center">
+  <img
+    src="./media/image1-gedraaid.jpg"
+    width="100%"
+    alt="Uitwerking van het helpcentrum en de interactieve rondleiding."
+  />
+</p>
 
-<img src="./media/image22.jpg" style="width:6.26772in;height:8.36111in" />***Figuur 8.** Aanvullende schetsen van de transparantiecomponent waarin de gelaagde opbouw van informatie wordt verkend.*
+**Figuur 11.** *Uitwerking van het helpcentrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.*
 
-<img src="./media/image37.png" style="width:6.26772in;height:4.88889in" />
+<p align="center">
+  <img
+    src="./media/image7.png"
+    width="100%"
+    alt="Overzicht van de hulpchat voor gebruikers die onderdelen van de tijdlijn niet begrijpen."
+  />
+</p>
 
-***Figuur 9**. Detailweergave van de interface met de 'Waarom'-uitleg voor specifieke processtappen.*
+**Figuur 12.** *Overzicht van de hulpchat voor gebruikers die bepaalde tijdlijnen niet begrijpen.*
 
 #### Concept 2 – Hulp & Begeleiding (Els)
 
