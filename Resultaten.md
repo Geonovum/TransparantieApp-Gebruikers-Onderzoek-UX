@@ -212,7 +212,6 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 <p align="center">
   <img
     src="./media/image34.png"
-    width="48%"
     alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van recente updates."
   />
   <img
