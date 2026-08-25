@@ -6,16 +6,16 @@ In dit hoofdstuk beschrijven we de onderzoeksaanpak voor een standaard waarbij b
 
 De vier fasen in dit onderzoek worden als volgt geïnterpreteerd:
 
-- **Ideation
+- **Ideation**
   > **In deze fase wordt het probleem verkend en worden ideeën gegenereerd. Dit gebeurt door middel van onderzoek (zoals interviews en deskresearch), het analyseren van gebruikersbehoeften en het verkennen van mogelijke oplossingsrichtingen.
 
-- **Define
+- **Define**
   > **In deze fase worden inzichten uit de ideatiefase geconcretiseerd. Het probleem wordt afgebakend en vertaald naar duidelijke vereisten en ontwerpprincipes.
 
-- **Realize
+- **Realize**
   > **In deze fase wordt het ontwerp uitgewerkt in de vorm van een prototype of concept, waarbij keuzes worden gemaakt in functionaliteit en interactie.
 
-- **Evaluate
+- **Evaluate**
   > **In deze fase wordt het ontwerp getest en beoordeeld, bijvoorbeeld door gebruikerstesten, waarbij wordt gekeken naar: usability, begrip en aansluiting op het mentale model van de gebruiker.
 
 Binnen deze aanpak is het belangrijk te benadrukken dat de fasen niet strikt vastliggen in termen van gebruikte technieken. Per fase kunnen verschillende methoden en technieken worden ingezet, afhankelijk van het doel van de cyclus en de context van het onderzoek, zoals interviews, co-creatie, prototyping of gebruikerstesten. Daarnaast kan elke cyclus een andere insteek hebben, passend bij het iteratieve karakter van het ontwerpproces.
