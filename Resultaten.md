@@ -211,12 +211,12 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 <p align="center">
   <img
+     width="48%"
     src="./media/image34.png"
     alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van recente updates."
   />
   <img
     src="./media/image4.png"
-    width="48%"
     alt="Detailweergave van een gegevensuitwisselingsproces met de verschillende verwerkingsstappen."
   />
 </p>
