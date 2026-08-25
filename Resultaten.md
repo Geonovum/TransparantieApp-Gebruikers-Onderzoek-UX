@@ -196,15 +196,14 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 
 ### Prototype 2: Overzicht WOZ -gerichte design
-                  
 <p align="center">
   <img
-    src="./media/image21.png"
+    src="./media/image26.png"
     width="48%"
-    alt="Scherm voor het selecteren van specifieke datadomeinen, zoals Wonen en leefomgeving."
+    alt="Scherm voor het selecteren van het datadomein Wonen en leefomgeving."
   />
   <img
-    src="./media/image19.png"
+    src="./media/image13.png"
     width="48%"
     alt="Welkomstscherm van het WOZ-overzicht met gebruikersinformatie en statistieken."
   />
@@ -212,33 +211,16 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 <p align="center">
   <img
-    src="./media/image32.png"
+    src="./media/image34.png"
     width="48%"
-    alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van updates."
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./media/image6.png"
-    width="48%"
-    alt="Eerste gedeelte van de detailweergave van een gegevensuitwisselingsproces."
+    alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van recente updates."
   />
   <img
-    src="./media/image6.png"
+    src="./media/image4.png"
     width="48%"
-    alt="Detailweergave van een gegevensuitwisselingsproces met stappen van verzending naar ontvangst."
+    alt="Detailweergave van een gegevensuitwisselingsproces met de verschillende verwerkingsstappen."
   />
 </p>
-
-<p align="center">
-  <img
-    src="./media/image6.png"
-    width="48%"
-    alt="Vervolg van de detailweergave van het gegevensuitwisselingsproces."
-  />
-</p>
-
 ### Evaluatie (Evaluate)
 
 In deze fase werd het eerste prototype van de Transparantie-app geëvalueerd met eindgebruikers, zowel via usability-tests als een vragenlijst (questionnaire). Het doel was om te toetsen in hoeverre het ontwerp aansluit bij het mentale model van de burger: hoe denken zij dat het systeem werkt en voldoet dit aan hun verwachtingen? Door middel van deze usability-tests en de vragenlijst zijn knelpunten in de navigatie en begrijpbaarheid geïdentificeerd, die dienen als input voor de verdere iteraties van het ontwerp en aanscherping van persona's.
