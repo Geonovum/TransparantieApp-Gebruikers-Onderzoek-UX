@@ -122,6 +122,9 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 | <img src="./media/image7.png" style="width:2.97917in;height:6.44444in" />                                                                                     | <img src="./media/image36.png" style="width:2.97917in;height:6.44444in" />                                                                                               |
 | <img src="./media/image39.png" style="width:2.97917in;height:6.44444in" />                                                                                    | <img src="./media/image38.png" style="width:2.97917in;height:6.44444in" />                                                                                               |
 
+
+
+
 ### Prototype 2: Overzicht WOZ -gerichte design
 
 | <img src="./media/image21.png" style="width:2.97917in;height:6.44444in" alt="Scherm voor het selecteren van specifieke datadomeinen zoals wonen en leefomgeving." /> | <img src="./media/image19.png" style="width:2.97917in;height:6.44444in" alt="Welkomstscherm van het WOZ-overzicht met gebruikersinformatie en statistieken." />               |
