@@ -52,7 +52,7 @@ Een belangrijk uitgangspunt binnen dit onderzoek is het principe van *progressiv
 
 Dit principe wordt veel toegepast in bestaande digitale producten. Zo laten e-maildiensten zoals Gmail eerst alleen een lijst met berichten zien, waarbij de inhoud pas zichtbaar wordt na het openen van een e-mail. Ook in apps zoals MijnOverheid of bankier-apps wordt eerst een samenvatting getoond, zoals een overzicht van transacties of meldingen, waarna gebruikers kunnen doorklikken naar details per item. In e-commerce omgevingen, zoals webshops, wordt progressive disclosure toegepast via filters en uitklapbare productinformatie, waarbij technische specificaties pas zichtbaar worden wanneer de gebruiker hier expliciet naar zoekt.
 
-<img src="./media/image15.jpg" style="width:4.625in;height:3.45333in" alt="Screenshot van Gmail ter illustratie van het progressive disclosure ontwerp-patroon." />
+<img src="./media/image5.jpg" style="width:4.625in;height:3.45333in" alt="Screenshot van Gmail ter illustratie van het progressive disclosure ontwerp-patroon." />
 
 ***Figuur 2.** Gmail-interface als voorbeeld van progressive disclosure*
 
