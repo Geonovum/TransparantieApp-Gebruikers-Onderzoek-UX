@@ -559,16 +559,43 @@ Tijdens het ontwerpproces was een doel om ook te onderzoeken of het presenteren 
 
 Om de impact van de informatiearchitectuur op de begrijpelijkheid te valideren, zijn twee verschillende prototypes ontwikkeld. Het eerste prototype volgt een standaard navigatie-opbouw (Menu \> Tijdlijn \> Detailoverzicht) en fungeert als het referentiekader voor de gebruikelijke informatiestromen. Het tweede prototype biedt een flexibele datastructuur, waarin gebruikers de mogelijkheid hebben om de informatie zowel chronologisch (tijdlijn) als hiërarchisch (organisatieoverzicht) te rangschikken. Door middel van een interactieve 'toggle' in het prototype konden gebruikers naadloos schakelen tussen deze twee perspectieven. Hiermee was het mogelijk om in de testomgeving direct te observeren welke ordeningsmethode het meest intuïtief is voor het beantwoorden van specifieke hulpvragen.
 
-#### Prototype 1: Normale flow Mijn PGO\> Tijdlijn\> Detail
+#### Prototype 1: normale flow Mijn PGO → Tijdlijn → Detail
 
-| <img src="./media/image20.png" style="width:2.97917in;height:9.26389in" /> | <img src="./media/image24.png" style="width:2.97917in;height:8.66228in" alt="Tijdlijnweergave van gegevensuitwisselingen binnen de PGO-omgeving." />              |
-|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./media/image11.png" style="width:2.97917in;height:9.4227in" />  | <img src="./media/image28.png" style="width:2.97917in;height:9.16228in" alt="Detailoverzicht van een specifieke gegevensuitwisseling, zoals een verwijsbrief." /> |
+<p align="center">
+  <img
+    src="./media/image19.png"
+    width="48%"
+    alt="Dashboard van de PGO-omgeving met toegang tot gegevensuitwisselingen, dossier, documenten en andere onderdelen."
+  />
+  <img
+    src="./media/image18.png"
+    width="48%"
+    alt="Tijdlijnweergave van gegevensuitwisselingen binnen de PGO-omgeving."
+  />
+</p>
 
-#### Prototype 2 Normale flow Mijn PGO\> Toggle
+<p align="center">
+  <img
+    src="./media/image2.png"
+    width="48%"
+    alt="Tijdlijn met beschikbare en tijdelijk niet-beschikbare gegevensuitwisselingen."
+  />
+  <img
+    src="./media/image29.png"
+    width="48%"
+    alt="Detailoverzicht van een specifieke gegevensuitwisseling, zoals een verwijsbrief."
+  />
+</p>
 
-| <img src="./media/image31.png" style="width:2.97917in;height:9.56853in" /> | <img src="./media/image31.png" style="width:2.97917in;height:16.58333in" /> |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+#### Prototype 2: normale flow Mijn PGO → Toggle
+
+<p align="center">
+  <img
+    src="./media/image8.png"
+    width="100%"
+    alt="Overzicht van gegevensuitwisselingen met een keuzeschakelaar tussen Organisaties en Tijdlijn."
+  />
+</p>
 
 ### Evaluate
 
