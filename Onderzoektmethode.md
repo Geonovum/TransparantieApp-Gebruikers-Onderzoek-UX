@@ -28,7 +28,7 @@ De tweede cyclus richtte zich op het verfijnen en valideren van het ontwerp. In 
 
 Het ontwerp is vervolgens verder uitgewerkt en toegepast op een tweede casus Volksgezondheid, Welzijn en Sport (VWS), waarbij de inzichten zijn vertaald naar concrete ontwerpvereisten en ontwerpprincipes. Het resulterende ontwerp is opnieuw geëvalueerd, met als doel te toetsen of eerder geïdentificeerde knelpunten zijn opgelost en of het ontwerp aansluit bij een realistische gebruikscontext.
 
-<img src="./media/image43.png" style="width:6.26772in;height:5.01389in" alt="Diagram van de twee ontwikkelcycli (Ideate, Define, Realize, Evaluate) voor de TransparantieApp." />
+<img src="./media/CyclesMethod.png" style="width:6.26772in;height:5.01389in" alt="Diagram van de twee ontwikkelcycli (Ideate, Define, Realize, Evaluate) voor de TransparantieApp." />
 
 ***[Figuur 1](https://geonovum.github.io/TransparantieApp-Gebruikers-Onderzoek-UX/#fig-afbeelding-1-cycles-for-iteraties-van-de-ontwikkeling-van-de-transparantie-app) .** Cycli voor iteraties van de ontwikkeling van de transparantieapp*
 
