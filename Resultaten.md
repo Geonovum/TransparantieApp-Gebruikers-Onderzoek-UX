@@ -221,6 +221,7 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
     alt="Detailweergave van een gegevensuitwisselingsproces met de verschillende verwerkingsstappen."
   />
 </p>
+
 ### Evaluatie (Evaluate)
 
 In deze fase werd het eerste prototype van de Transparantie-app geëvalueerd met eindgebruikers, zowel via usability-tests als een vragenlijst (questionnaire). Het doel was om te toetsen in hoeverre het ontwerp aansluit bij het mentale model van de burger: hoe denken zij dat het systeem werkt en voldoet dit aan hun verwachtingen? Door middel van deze usability-tests en de vragenlijst zijn knelpunten in de navigatie en begrijpbaarheid geïdentificeerd, die dienen als input voor de verdere iteraties van het ontwerp en aanscherping van persona's.
