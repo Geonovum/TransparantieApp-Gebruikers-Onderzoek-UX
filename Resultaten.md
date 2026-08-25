@@ -133,6 +133,83 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 | <img src="./media/image6.png" style="width:2.78125in;height:9.18147in" />                                                                                            | <img src="./media/image6.png" style="width:2.84375in;height:9.38103in" alt="Detailweergave van een gegevensuitwisselingsproces met stappen van verzending naar ontvangst." /> |
 | <img src="./media/image6.png" style="width:2.84375in;height:9.06853in" />                                                                                            |                                                                                                                                                                               |
 
+
+<p align="center">
+  <img
+    src="./media/image11.png"
+    width="48%"
+    alt="Inlogscherm van het prototype van de TransparantieApp, met uitleg over inzicht, meldingen en controle."
+  />
+  <img
+    src="./media/image21.png"
+    width="48%"
+    alt="Keuzescherm met datadomeinen, waaronder identiteit, inkomen, zorg en wonen."
+  />
+</p>
+
+<p align="center">
+  <em>1. Inloggen</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>2. Datadomeinen verkennen</em>
+</p>
+
+<p align="center">
+  <img
+    src="./media/image25.png"
+    width="48%"
+    alt="Volledig keuzescherm met acht datadomeinen en een knop om naar de volgende stap te gaan."
+  />
+  <img
+    src="./media/image15.png"
+    width="48%"
+    alt="Overzichtsscherm met recente gebeurtenissen en de laatste updates van gegevensverwerkingen."
+  />
+</p>
+
+<p align="center">
+  <em>3. Datadomeinen selecteren</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>4. Laatste updates</em>
+</p>
+
+<p align="center">
+  <img
+    src="./media/image3.png"
+    width="48%"
+    alt="Scherm Mijn dossier met lopende en afgeronde overheidsprocessen, waaronder diplomawaardering en toeslagen."
+  />
+  <img
+    src="./media/image36.png"
+    width="48%"
+    alt="Scherm Gegevensuitwisseling met uitleg en filters voor domeinen en gebeurtenissen."
+  />
+</p>
+
+<p align="center">
+  <em>5. Mijn dossier</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>6. Gegevensuitwisseling filteren</em>
+</p>
+
+<p align="center">
+  <img
+    src="./media/image35.png"
+    width="48%"
+    alt="Tijdlijn met organisaties, verwerkingsstappen en gedeelde gegevens voor een zorgtoeslagaanvraag."
+  />
+  <img
+    src="./media/image37.png"
+    width="48%"
+    alt="Scherm Datavoorkeuren waarop de gebruiker gevolgde domeinen en organisaties kan selecteren en opslaan."
+  />
+</p>
+
+<p align="center">
+  <em>7. Stappen in de gegevensuitwisseling</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>8. Datavoorkeuren beheren</em>
+</p>
+
 ### Evaluatie (Evaluate)
 
 In deze fase werd het eerste prototype van de Transparantie-app geëvalueerd met eindgebruikers, zowel via usability-tests als een vragenlijst (questionnaire). Het doel was om te toetsen in hoeverre het ontwerp aansluit bij het mentale model van de burger: hoe denken zij dat het systeem werkt en voldoet dit aan hun verwachtingen? Door middel van deze usability-tests en de vragenlijst zijn knelpunten in de navigatie en begrijpbaarheid geïdentificeerd, die dienen als input voor de verdere iteraties van het ontwerp en aanscherping van persona's.
