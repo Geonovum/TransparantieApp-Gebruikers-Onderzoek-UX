@@ -124,7 +124,16 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 
 
-
+ Scherm | Afbeelding |
+| --- | --- |
+| 1. Inloggen | ![Inlogscherm van het prototype van de TransparantieApp, met uitleg over inzicht, meldingen en controle.](images/image11.png) |
+| 2. Datadomeinen verkennen | ![Keuzescherm met datadomeinen, waaronder identiteit, inkomen, zorg en wonen.](images/image21.png) |
+| 3. Datadomeinen selecteren | ![Volledig keuzescherm met acht datadomeinen en een knop om naar de volgende stap te gaan.](images/image25.png) |
+| 4. Laatste updates | ![Overzichtsscherm met recente gebeurtenissen en de laatste updates van gegevensverwerkingen.](images/image15.png) |
+| 5. Mijn dossier | ![Scherm Mijn dossier met lopende en afgeronde overheidsprocessen, waaronder diplomawaardering en toeslagen.](images/image3.png) |
+| 6. Gegevensuitwisseling filteren | ![Scherm Gegevensuitwisseling met uitleg en filters voor domeinen en gebeurtenissen.](images/image36.png) |
+| 7. Stappen in de gegevensuitwisseling | ![Tijdlijn met organisaties, verwerkingsstappen en gedeelde gegevens voor een zorgtoeslagaanvraag.](images/image35.png) |
+| 8. Datavoorkeuren beheren | ![Scherm Data voorkeuren waarop de gebruiker gevolgde domeinen en organisaties kan selecteren en opslaan.](images/image37.png) |
 
 
 
