@@ -341,7 +341,7 @@ Een prominente 'Waarom'-knop bij elke processtap die een transparantie component
 
 Dit concept verlaagt de drempel voor transparantie door uitleg een integraal onderdeel te maken van de interface.
 
-<img src="./media/image41.jpg" style="width:6.26772in;height:4.69444in" />
+<img src="./media/image12.jpg" style="width:6.26772in;height:4.69444in" />
 
 ***Figuur 7.** Eerste conceptschetsen van de 'Waarom-knop' en transparantiecomponent. De schets toont hoe uitleg over besluitvorming (zoals de WOZ-waarde) direct toegankelijk gemaakt kan worden in de interface.*
 
