@@ -521,7 +521,7 @@ Dit concept combineert uitleg, begeleiding en hulp in één toegankelijke ervari
 
 <p align="center">
   <img
-    src="./media/image9-gedraaid.jpg"
+    src="./media/image9.jpg"
     width="100%"
     alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers."
   />
@@ -531,9 +531,9 @@ Dit concept combineert uitleg, begeleiding en hulp in één toegankelijke ervari
 
 <p align="center">
   <img
-    src="./media/image1-gedraaid.jpg"
+    src="./media/image1.jpg"
     width="100%"
-    alt="Uitwerking van het helpcentrum en de interactieve rondleiding."
+    alt="Uitwerking van het helpcentrum en de interactieve tour."
   />
 </p>
 
