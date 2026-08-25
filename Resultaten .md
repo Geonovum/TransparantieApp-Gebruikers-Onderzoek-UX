@@ -1,4 +1,4 @@
-# 3. Resultaten
+# Resultaten
 
 Dit hoofdstuk presenteert de resultaten van het uitgevoerde gebruikersonderzoek, gestructureerd volgens de iteratieve ontwerpaanpak die in het vorige hoofdstuk is beschreven. Het onderzoek is opgedeeld in drie iteratie cycli, waarbij per cyclus specifieke inzichten uit literatuuronderzoek, gesprekken met stakeholders, bruikbaarheidstesten, en co-creatie sessies zijn verzameld.
 
@@ -10,9 +10,9 @@ In de volgende secties worden de bevindingen per iteratie toegelicht:
 
 3.3 Derde iteratie: Bespreekt de uitkomsten van de laatste validatietesten, waaronder het onderzoek onder oudere gebruikers, en vertaalt deze naar concrete implicaties voor het ontwerp en de informatiearchitectuur van de TransparantieApp.
 
-## 3.1 Eerste iteratie
+## Eerste iteratie
 
-### 3.1.1 Verkenning en Ideevorming (Ideate)
+### Verkenning en Ideevorming (Ideate)
 
 De initiële fase van het project richtte zich op het vaststellen van de technische en organisatorische kaders. Uit diepgaande gesprekken met softwareontwikkelaar Henk-Erik en het bredere projectteam, kwam naar voren dat de bestaande simulaties binnen Digilab een robuust fundament bieden voor de TransparantieApp. Er is reeds waardevolle data beschikbaar over gegevensuitwisseling en processtappen, wat direct hergebruik mogelijk maakt.
 
@@ -24,7 +24,7 @@ Parallel aan de technische inventarisatie is de juridische en maatschappelijke c
 
 Als referentiekader is de VO-Rijk app geanalyseerd, een koploper in digitale transparantie. De kracht van deze app ligt in de veilige DigiD-activatie flow en de strikte scheiding tussen de lokale beveiliging (pincode) en de centrale authenticatie. De UX-architectuur is opgebouwd rond twee pijlers: 'Overzicht' voor directe acties en 'Dossiers' voor inhoudelijke volledigheid. Deze methode van 'uitkleden', waarbij alleen functionele componenten overblijven die waarde toevoegen, dient als blauwdruk. De visie dat de burger niet hoeft te reizen naar de informatie, maar dat de informatie naar de burger komt, vormt het leidende principe voor de integratie van transparantie-informatie in de bredere overheidsdienstverlening.
 
-### 3.1.2 Definitie en Vereisten (Define)
+### Definitie en Vereisten (Define)
 
 De vertaling van wat burgers nodig hebben naar hoe de app eruit ziet, is de kern van deze fase. Uit ons onderzoek blijkt dat er drie verschillende groepen gebruikers zijn, die elk op hun eigen manier met transparantie omgaan. Voor elk van hen vraagt dit om specifieke keuzes in het ontwerp:
 
@@ -38,7 +38,7 @@ Deze inzichten leiden tot een belangrijke kernhypothese: transparantie moet gela
 
 Een volledige uitwerking van de gebruikte persona's is opgenomen in Bijlage A.
 
-### 3.1.3 UX-patronen voor hiërarchische data
+### UX-patronen voor hiërarchische data
 
 Het inzichtelijk maken van complexe overheidsdata vraagt om een doordachte vertaalslag naar de gebruikersinterface. Omdat de TransparantieApp werkt met gelaagde en technisch complexe datasets, is het cruciaal om bestaande UX-patronen in te zetten die de cognitieve belasting beperken. In de volgende sectie bespreken we welke patronen zijn onderzocht en toegepast om deze hiërarchische data toegankelijk en begrijpelijk te maken voor de eindgebruiker.
 
@@ -84,7 +84,7 @@ Zo bieden webshops zoals Bol.com en Amazon uitgebreide filteropties waarmee gebr
 
 **Multi-view interfaces**
 
-Het gebruik van multi-view interfaces (Nielsen Norman Group, z.d.) is een belangrijk patroon. Hierbij wordt dezelfde dataset op verschillende manieren gepresenteerd, bijvoorbeeld in de vorm van een overzicht, een tijdlijn en detailpagina’s. Dit stelt gebruikers in staat om informatie te benaderen vanuit verschillende perspectieven, afhankelijk van hun behoeften.
+Het gebruik van multi-view interfaces (Nielsen Norman Group, z.d.) is een belangrijk patroon. Hierbij wordt dezelfde dataset op verschillende manieren gepresenteerd, bijvoorbeeld in de vorm van een overzicht, een tijdlijn en detailpagina's. Dit stelt gebruikers in staat om informatie te benaderen vanuit verschillende perspectieven, afhankelijk van hun behoeften.
 
 Dit patroon is terug te zien in applicaties zoals Google Analytics, waar gebruikers kunnen schakelen tussen dashboards, grafieken en detailrapportages. Ook in kaartapplicaties zoals Google Maps kunnen gebruikers wisselen tussen verschillende weergaven, zoals kaart, satellietbeeld en navigatiemodus. In projectmanagementtools zoals Notion of Jira kunnen gegevens worden bekeken als lijst, board (Kanban) of tijdlijn. Door meerdere weergaven aan te bieden, kunnen gebruikers zelf bepalen hoe zij informatie het beste interpreteren en gebruiken.
 
@@ -104,7 +104,7 @@ Hoewel deze vorm visueel vereenvoudigd is, blijft het principe gebaseerd op hië
 
 ***Figuur 6.** Breadcrumbnavigatie in Google Drive*
 
-### 3.1.2 Uitwerking (Realize)
+### Uitwerking (Realize)
 
 De TransparantieApp fungeert als verdiepingslaag op het dossieroverzicht van de Rijksapp door inzicht te bieden in de historische keten van gegevensverwerking. Het doel is om antwoord te geven op vragen over het 'wat', 'waarom' en 'hoe' van datagebruik tussen overheidsorganisaties. Ontwerpprincipes richten zich hierbij op het presenteren van tijdlijnen (op hoofdlijnen en in detail) en het managen van de cognitieve belasting, waarbij de kernuitdaging ligt in het filteren van relevante informatie en het inzichtelijk maken van oorzaak-gevolg relaties zonder de gebruiker te overspoelen met informatie.
 
@@ -133,7 +133,7 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 | <img src="./media/image6.png" style="width:2.78125in;height:9.18147in" />                                                                                            | <img src="./media/image6.png" style="width:2.84375in;height:9.38103in" alt="Detailweergave van een gegevensuitwisselingsproces met stappen van verzending naar ontvangst." /> |
 | <img src="./media/image6.png" style="width:2.84375in;height:9.06853in" />                                                                                            |                                                                                                                                                                               |
 
-### 3.1.3 Evaluatie (Evaluate)
+### Evaluatie (Evaluate)
 
 In deze fase werd het eerste prototype van de Transparantie-app geëvalueerd met eindgebruikers, zowel via usability-tests als een vragenlijst (questionnaire). Het doel was om te toetsen in hoeverre het ontwerp aansluit bij het mentale model van de burger: hoe denken zij dat het systeem werkt en voldoet dit aan hun verwachtingen? Door middel van deze usability-tests en de vragenlijst zijn knelpunten in de navigatie en begrijpbaarheid geïdentificeerd, die dienen als input voor de verdere iteraties van het ontwerp en aanscherping van persona's.
 
@@ -147,7 +147,7 @@ Daarnaast vormt terminologie een belangrijke barrière. Begrippen sluiten onvold
 
 Hoewel de inlogflow goed wordt begrepen, ervaren gebruikers na het inloggen desoriëntatie. Zij weten niet goed waar zij zich bevinden of wat de volgende stap is, zie 3.1.2 voor designs.
 
-Ook de navigatie blijkt niet intuïtief. Gebruikers vinden informatie vaak via “laatste updates”, wat wijst op een inbox- of timeline-achtig gebruiksmodel.
+Ook de navigatie blijkt niet intuïtief. Gebruikers vinden informatie vaak via "laatste updates", wat wijst op een inbox- of timeline-achtig gebruiksmodel.
 
 De tijdlijn wordt daarnaast als te gedetailleerd ervaren. Gebruikers geven aan vooral behoefte te hebben aan overzicht en kerninformatie, zoals betrokken organisaties en gebruikte gegevens.
 
@@ -159,7 +159,7 @@ Op basis van de uitgevoerde gebruikerstesten met het prototype van de Transparan
 
 Daarnaast vormt terminologie een belangrijke barrière. Begrippen sluiten onvoldoende aan op het mentale model van gebruikers, waardoor interpretatie extra inspanning kost. Voorbeelden hiervan zijn woorden zoals transparantie, data, gebeurtenis, afwijzing (in context), goedgekeurd (in context), domein enbetrouwbaarheidsscore.
 
-Hoewel de inlogflow goed wordt begrepen, ervaren gebruikers na het inloggen desoriëntatie. Zij weten niet goed waar zij zich bevinden of wat de volgende stap is. Zo zagen wij dan ook tijdens de gebruikerstesten dat er veel verschillende manieren werden vertoond om dezelfde informatie te vinden. De navigatie werd dan ook niet ervaren als intuïtief. De meeste gebruikers, 7 van de 10, vinden informatie vaak via “laatste updates”, wat wijst op een inbox- of timeline-achtig gebruiksmodel en sluit aan bij wat gebruikers gewend zijn bij mijn berichtenbox-achtige omgevingen zoals MijnOverheid.
+Hoewel de inlogflow goed wordt begrepen, ervaren gebruikers na het inloggen desoriëntatie. Zij weten niet goed waar zij zich bevinden of wat de volgende stap is. Zo zagen wij dan ook tijdens de gebruikerstesten dat er veel verschillende manieren werden vertoond om dezelfde informatie te vinden. De navigatie werd dan ook niet ervaren als intuïtief. De meeste gebruikers, 7 van de 10, vinden informatie vaak via "laatste updates", wat wijst op een inbox- of timeline-achtig gebruiksmodel en sluit aan bij wat gebruikers gewend zijn bij mijn berichtenbox-achtige omgevingen zoals MijnOverheid.
 
 De tijdlijn wordt daarnaast als te gedetailleerd ervaren door 5 van de 10 gebruikers. Gebruikers geven aan vooral behoefte te hebben aan overzicht en kerninformatie, zoals betrokken organisaties en gebruikte gegevens.
 
@@ -173,7 +173,7 @@ De problemen met terminologie benadrukken het belang van *recognition over recal
 
 De desoriëntatie na login wijst op een gebrek aan *contextual navigation*. Gebruikers missen duidelijke context en oriëntatie.
 
-Daarnaast bevestigt het gedrag rondom “laatste updates” het belang van timeline- en inboxpatronen. Deze sluiten beter aan bij de bestaande mentale modellen die momenteel binnen de overheid worden gehanteerd dan een puur hiërarchische structuur of app-structuur.
+Daarnaast bevestigt het gedrag rondom "laatste updates" het belang van timeline- en inboxpatronen. Deze sluiten beter aan bij de bestaande mentale modellen die momenteel binnen de overheid worden gehanteerd dan een puur hiërarchische structuur of app-structuur.
 
 Tot slot onderstrepen de resultaten het belang van zoek- en filtermechanismen, aangezien gebruikers niet lineair navigeren maar juist gericht zoeken.
 
@@ -279,13 +279,13 @@ Ook de terminologie moet worden vereenvoudigd volgens het principe van *recognit
 
 Verder is het noodzakelijk om *contextual navigation* te versterken. Gebruikers moeten continu inzicht hebben in waar zij zich bevinden binnen de applicatie. Dit kan worden ondersteund door duidelijke navigatie-elementen zoals sticky navigatie, contextuele labels, of vereenvoudigde (truncated) breadcrumbs.
 
-De observatie dat gebruikers informatie via “laatste updates” vinden,
+De observatie dat gebruikers informatie via "laatste updates" vinden,
 
 onderstreept het belang van *timeline- en inboxpatronen.* De applicatie dient daarom een chronologische structuur te bieden waarin recente gebeurtenissen centraal staan en eenvoudig terug te volgen zijn.
 
 Daarnaast moeten *zoek- en filtermechanismen* centraal staan in de interactie. In plaats van gebruikers door een volledige hiërarchie te laten navigeren, moeten zij snel relevante informatie kunnen vinden via zoeken en filtering. Dit sluit aan bij hedendaags gebruikersgedrag en vermindert de cognitieve belasting.
 
-Tot slot is het toepassen van *multi-view interfaces* van belang. Door verschillende weergaven aan te bieden, zoals een overzicht, een tijdlijn en detailpagina’s, kunnen gebruikers informatie benaderen op een manier die past bij hun behoeften en voorkeuren.
+Tot slot is het toepassen van *multi-view interfaces* van belang. Door verschillende weergaven aan te bieden, zoals een overzicht, een tijdlijn en detailpagina's, kunnen gebruikers informatie benaderen op een manier die past bij hun behoeften en voorkeuren.
 
 De resultaten of de questionnaire laten zien dat gebruikers een duidelijke voorkeur hebben voor een gelaagde opbouw of informatie:
 
@@ -297,13 +297,13 @@ De resultaten of de questionnaire laten zien dat gebruikers een duidelijke voork
 
 Dit sluit direct aan bij het principe van *progressive disclosure* en bevestigt dat informatie binnen de Transparantie-app stapsgewijs en op basis van relevantie moet worden aangeboden.
 
-## 3.2 Tweede iteratie
+## Tweede iteratie
 
 De tweede iteratie richtte zich op de definitieve validatie en verfijning van het ontwerp uit de eerste cyclus. In deze fase werd het ontwerpproces aangescherpt door middel van co-creatie, waarbij externe perspectieven werden geïntegreerd. Gedurende het proces werd besloten om de focus te verleggen van de WOZ-casus naar de PGO-omgeving (Persoonlijke Gezondheidsomgeving). Deze keuze werd ingegeven door de noodzaak om het ontwerp en de mogelijkheden van de data beter op elkaar af te stemmen. Het vorige ontwerp leek te ver af te wijken wat er met data-logboek verwerking technisch mogelijk kon ondersteunen. Het was daarom belangrijk dat de nieuwe casus meer realistisch was en meer in lijn met het beoogde doel van de standaard.
 
 Daarnaast bood de samenwerking met het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) de mogelijkheid om de casus in een realistische context verder uit te werken en te valideren. Deze fase werd afgesloten met een uitgebreide evaluatie, waaronder A/B-testen en kwalitatief onderzoek, om de vindbaarheid en transparantie van het systeem te toetsen.
 
-### 3.2.1 Iterate & Define
+### Iterate & Define
 
 De co-creatiesessie met designers van Logius heeft geleid tot een scherpere focus op de behoeften van de eindgebruiker binnen de WOZ-casus. De sessie leverde concrete inzichten op over het vertalen van complexe datalogging naar intuïtieve interfacecomponenten. Hierbij lag de nadruk op het creëren van een transparante dialoog tussen burger en overheid. De uitkomsten zijn vertaald naar twee kernconcepten die de basis vormen voor verdere prototyping en validatie.
 
@@ -407,7 +407,7 @@ Dit concept combineert uitleg, begeleiding en hulp in één toegankelijke ervari
 
 ***Figuur 12.** Overzicht hulpchat voor mensen die bepaalde tijdlijnen niet begrijpen*
 
-### 3.2.2 Realize
+### Realize
 
 Na de evaluatie en verfijning van de initiële WOZ-casus, is het ontwerp in deze fase doorvertaald naar de context van een Persoonlijke Gezondheidsomgeving (PGO). Hierbij zijn de succesvolle UX-patronen uit de eerste iteratie, zoals progressive disclosure, tijdlijn visualisaties en gelaagde informatiearchitectuur, toegepast op de complexere en gevoelige datastromen binnen de zorg. Deze transitie naar een PGO-usecase maakt het mogelijk om de schaalbaarheid en robuustheid van de ontwikkelde componenten te toetsen in een omgeving met diverse, intensieve gegevensuitwisselingen en te valideren of de transparantie-ervaring ook bij medische persoonsgegevens aansluit bij de behoeften van de gebruiker.
 
@@ -428,11 +428,11 @@ Om de impact van de informatiearchitectuur op de begrijpelijkheid te valideren, 
 | <img src="./media/image31.png" style="width:2.97917in;height:9.56853in" /> | <img src="./media/image31.png" style="width:2.97917in;height:16.58333in" /> |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 
-### 3.2.3 Evaluate
+### Evaluate
 
 Om deze ontwerpiteratie te evalueren is een A/B-test uitgevoerd en is via kwalitatief onderzoek de vindbaarheid en transparantie van het systeem getoetst.
 
-#### 3.2.3.1 Kwantitatieve resultaten (A/B-test)
+#### Kwantitatieve resultaten (A/B-test)
 
 #### Algemene conclusies kwantitatieve analyse
 
@@ -490,9 +490,9 @@ Het is duidelijk dat er nog wat initiële verwarring is op het eerste scherm met
 
 Het was men duidelijk waar ze mee bezig waren, ze zouden het zelf gebruiken als het relevant voor ze was en ze vinden het taalgebruik duidelijk, dat dit alles toont dat het in de huidige staat al een zeer acceptabel product is. Vooral het totaaloverzicht mag nog iets duidelijker en de grafische vormgeving kan verbeterd, verder waren de gebruikers tevreden.
 
-Waarschijnlijk is de beste optie om gebruikers zowel een tijdlijn overzicht als een organisatie overzicht te geven, aangezien dat eerste toch fijn lijkt te zijn voor de ‘big picture’ en een overzicht per organisatie blijkbaar toch makkelijker is dan een filter op de tijdlijnversie.
+Waarschijnlijk is de beste optie om gebruikers zowel een tijdlijn overzicht als een organisatie overzicht te geven, aangezien dat eerste toch fijn lijkt te zijn voor de 'big picture' en een overzicht per organisatie blijkbaar toch makkelijker is dan een filter op de tijdlijnversie.
 
-#### 3.2.3.2 Resultaten kwalitatieve analyse
+#### Resultaten kwalitatieve analyse
 
 #### Gegevensuitwisseling versus documenten
 
@@ -531,22 +531,22 @@ Het taalgebruik werd overwegend als duidelijk ervaren. **9 van de 10 deelnemers*
 Vanuit de kwalitatieve analyse wordt het duidelijk dat men via het organisatiescherm makkelijk de groepering van organisaties vindt via een filter. Het is de hypothese dat filteren een complexere interactie is dan het onderdeel maken van de flow. Hier zijn een aantal mogelijke oorzaken voor, zie de onderstaande tabel.
 
 | **Probleem**                                      | **Wat onderzoek laat zien**                                                                                                                                                                                                                                                                                    |
-|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Filters worden niet opgemerkt**                 | Gebruikers richten hun aandacht eerst op de resultatenlijst en zien de filters vaak over het hoofd, vooral wanneer deze boven of naast de resultaten staan. ([<u>usability.de</u>](https://www.usability.de/usability-user-experience/publikationen/faceted-search.html?utm_source=chatgpt.com))               |
 | **Onduidelijke terminologie**                     | Filters bevatten vaak jargon of termen die gebruikers niet begrijpen. Hierdoor worden filters verkeerd gebruikt of helemaal genegeerd. ([<u>Baymard Institute</u>](https://baymard.com/blog/use-visual-filters-for-visually-distinct-product-attributes?utm_source=chatgpt.com))                               |
 | **Te veel opties**                                | Een lange lijst met filters verhoogt de cognitieve belasting. Gebruikers weten niet waar ze moeten beginnen of welke filters relevant zijn. ([<u>sites.uwm.edu</u>](https://sites.uwm.edu/mdlaug/com-2-nav-1-difficulty-understanding-navigating-the-search-filtering-structure/?utm_source=chatgpt.com))      |
 | **Onduidelijke feedback**                         | Gebruikers verwachten direct te zien wat een filter doet. Als niet duidelijk is hoeveel resultaten overblijven of welke filters actief zijn, ontstaat verwarring. ([<u>DWP Design System</u>](https://design-system.dwp.gov.uk/research/filters/design-notes?utm_source=chatgpt.com))                          |
 | **Filters sluiten niet aan op het mentale model** | Ontwerpers gebruiken vaak categorieën die logisch zijn voor de organisatie, maar niet voor gebruikers. Daardoor weten gebruikers niet welke filter ze moeten kiezen. ([<u>Baymard Institute</u>](https://baymard.com/blog/use-visual-filters-for-visually-distinct-product-attributes?utm_source=chatgpt.com)) |
 
-## 3.3 Derde iteratie: final design
+## Derde iteratie: final design
 
-In deze derde en laatste iteratie ligt de focus op het definitieve design van de TransparantieApp. Waar de voorgaande cycli zich richtten op het verkennen van het probleem, het definiëren van de persona’s en het valideren van verschillende concepten, brengt deze fase alle opgedane inzichten samen tot een samenhangend eindontwerp. In deze sectie worden de resultaten van de laatste validatietesten besproken. Hierbij is specifiek gekeken naar hoe het ontwerp presteert onder diverse gebruikersgroepen—waaronder oudere gebruikers, en hoe de gekozen informatiearchitectuur in de praktijk functioneert. De bevindingen in deze sectie bieden concrete implicaties voor de definitieve inrichting van de applicatie, waarbij de balans tussen transparantie, begrijpelijkheid en intuïtieve navigatie centraal staat.
+In deze derde en laatste iteratie ligt de focus op het definitieve design van de TransparantieApp. Waar de voorgaande cycli zich richtten op het verkennen van het probleem, het definiëren van de persona's en het valideren van verschillende concepten, brengt deze fase alle opgedane inzichten samen tot een samenhangend eindontwerp. In deze sectie worden de resultaten van de laatste validatietesten besproken. Hierbij is specifiek gekeken naar hoe het ontwerp presteert onder diverse gebruikersgroepen—waaronder oudere gebruikers, en hoe de gekozen informatiearchitectuur in de praktijk functioneert. De bevindingen in deze sectie bieden concrete implicaties voor de definitieve inrichting van de applicatie, waarbij de balans tussen transparantie, begrijpelijkheid en intuïtieve navigatie centraal staat.
 
-### 3.3.1 Iterate, Define & Realize
+### Iterate, Define & Realize
 
 Op basis van de resultaten uit eerdere iteraties zijn gerichte verfijningen doorgevoerd in het ontwerp. De focus lag hierbij op het optimaliseren van de labeling van filters, het vergroten van de visuele hiërarchie van de downloadfunctie en het verduidelijken van de terminologie binnen de instellingen. De meest significante ontwerpkeuze in deze fase was de implementatie van een hybride weergave, waarbij de gebruiker flexibel kan schakelen tussen een organisatiegericht overzicht en een chronologische tijdlijn. Deze variant is specifiek getoetst bij een kwetsbare doelgroep om de inclusiviteit en robuustheid van de informatiearchitectuur te valideren.
 
-### 3.3.2 Evaluatie: de belangrijkste bevindingen
+### Evaluatie: de belangrijkste bevindingen
 
 De evaluatie toont aan dat de bruikbaarheid van het prototype aanzienlijk toeneemt zodra de gebruiker de juiste context bereikt. Een kritiek knelpunt ontstaat echter wanneer het systeem meldingen geeft zoals "Actie niet beschikbaar" of wanneer informatie ontbreekt zonder nadere toelichting. Dit gebrek aan context leidt tot speculatie en wantrouwen bij burgers, waarbij zij vermoeden dat informatie bewust wordt achtergehouden. Om dit te mitigeren, is het essentieel om niet alleen de afwezigheid van data te communiceren, maar ook de achterliggende reden (bijvoorbeeld een organisatie die nog niet is aangesloten) en handelingsperspectief te bieden. Transparantie over het proces is hierbij belangrijker dan de navigatie zelf.
 
@@ -554,7 +554,7 @@ De kern van de informatiearchitectuur, gebaseerd op de relatie tussen organisati
 
 Een klassiek usability-probleem kwam naar voren bij het gebruik van filters binnen de tijdlijn. Hoewel de functionaliteit als zeer nuttig wordt ervaren, is de toegang ertoe niet intuïtief genoeg. De term "Tijdlijn" roept soms verwarring op; alternatieven zoals "Overzicht" of "Alle uitwisselingen" sluiten beter aan bij het mentale model van de gebruiker. Bovendien dient de filterfunctie expliciet gelabeld te worden om de vindbaarheid te vergroten, aangezien gebruikers momenteel te veel moeten vertrouwen op visuele herkenning van iconen.
 
-#### 3.3.2.1 Mensen gebruiken verschillende zoekstrategieën
+#### Mensen gebruiken verschillende zoekstrategieën
 
 Uit de testresultaten kunnen drie dominante navigatiestrategieën worden afgeleid: navigatie vanuit de organisatie naar detail, een chronologische route via de tijdlijn met filters, en het direct zoeken naar specifieke onderdelen. Een robuust ontwerp moet deze diverse mentale modellen simultaan ondersteunen. In plaats van de gebruiker naar één specifieke route te dwingen, biedt het definitieve design meerdere ingangen naar dezelfde informatie, wat de efficiëntie en gebruikerstevredenheid verhoogt.
 
@@ -566,26 +566,26 @@ Uit de testresultaten kunnen drie dominante navigatiestrategieën worden afgelei
 
 Een deelnemer wilde bijvoorbeeld expliciet een zoekfunctie gebruiken toen een verwijsbrief niet direct gevonden kon worden. Een andere deelnemer beweegt juist vrij gemakkelijk tussen tijdlijn/filter en organisatieroutes. Weer een andere deelnemer neigt sterker naar navigatie via organisaties. Dat is waardevol, omdat het suggereert dat het product gebruikers niet moet proberen één juiste route aan te leren. Die ene juiste route bestaat waarschijnlijk niet. Een sterker ontwerp zou dezelfde informatie bereikbaar maken via organisatie, tijd/gegevenstype en zoeken.
 
-#### 3.3.2.2 De behoefte aan een volledig en betrouwbaar overzicht
+#### De behoefte aan een volledig en betrouwbaar overzicht
 
 Volledigheid is een kernverwachting van de burger. Meldingen over onvolledige overzichten worden niet slechts als informatief beschouwd, maar raken direct de betrouwbaarheid van de applicatie. Gebruikers wensen de mogelijkheid om ontbrekende organisaties te signaleren of toe te voegen. Het is cruciaal dat de interface een scherp onderscheid maakt tussen verschillende statussen, zoals "geen uitwisseling plaatsgevonden", "organisatie niet aangesloten" of "gegevens tijdelijk niet beschikbaar", om de informatiepositie van de burger te versterken.
 
-#### 3.3.2.3 Contactgegevens van de organisatie
+#### Contactgegevens van de organisatie
 
 Wanneer onduidelijkheden optreden, is de directe reflex van de gebruiker om contact op te nemen met de bronorganisatie. Het ontwerp faciliteert dit door contactgegevens en directe links naar externe websites van organisaties integraal op te nemen in de gegevensdetails. Dit voorkomt dat burgers zelfstandig op zoek moeten naar contactinformatie en versterkt het handelingsperspectief binnen de applicatie.
 
-#### 3.3.2.4 De downloadfunctie werkt, maar valt visueel niet altijd genoeg op
+#### De downloadfunctie werkt, maar valt visueel niet altijd genoeg op
 
 De downloadfunctie wordt gewaardeerd, maar de visuele hiërarchie van de knop behoeft verbetering. Sommige deelnemers zochten naar downloadopties bij individuele gebeurtenissen in plaats van het totaaloverzicht. Hoewel de flow als logisch wordt ervaren, moet de knop prominenter gepositioneerd worden om de vindbaarheid voor alle gebruikersgroepen te garanderen.
 
-#### 3.3.2.5 Aannames over het gebruikte apparaat verdienen aandacht
+#### Aannames over het gebruikte apparaat verdienen aandacht
 
 De testomgeving bracht relevante inzichten naar voren over de gebruikscontext. Er is een duidelijke voorkeur voor grotere schermen (desktop of tablet) bij het raadplegen van complexe medische of juridische data, vooral onder oudere gebruikers. Een responsief ontwerp dat geoptimaliseerd is voor diverse apparaten en browsers is derhalve geen secundaire vereiste, maar een voorwaarde voor een inclusieve en toegankelijke dienstverlening. Veel ouderen gebruiken Apple producten, dus zou het design idealiter voor deze webbrowser geoptimaliseerd zijn.
 
-#### 3.3.2.6 Overzicht belangrijkste onderzoeksbevindingen
+#### Overzicht belangrijkste onderzoeksbevindingen
 
 | **Prioriteit** | **Bevinding**                                                                                     | **Ontwerprichting**                                                                      |
-|----------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|----------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Kritiek        | Ontbrekende of niet-beschikbare informatie veroorzaakt onzekerheid en soms wantrouwen             | Leg uit waarom, wat het betekent en wat de gebruiker vervolgens kan doen                 |
 | Hoog           | Gebruikers ontdekken niet altijd wat de tijdlijn en filters kunnen                                | Verbeter terminologie en maak filteren explicieter                                       |
 | Hoog           | Gebruikers willen weten of het overzicht daadwerkelijk volledig is                                | Leg uit wat wel en niet wordt meegenomen, inclusief ontbrekende organisaties en gegevens |
@@ -593,7 +593,7 @@ De testomgeving bracht relevante inzichten naar voren over de gebruikscontext. E
 | Middel         | Verschillende gebruikers hanteren verschillende mentale modellen: organisatie, tijdlijn en zoeken | Ondersteun meerdere routes naar dezelfde informatie                                      |
 | Middel/Laag    | Downloaden is nuttig, maar kan visueel over het hoofd worden gezien                               | Maak de downloadknop prominenter                                                         |
 
-### 3.3.3 Verbeterpunten en iteratieve acties
+### Verbeterpunten en iteratieve acties
 
 Op basis van deze bevindingen zijn de volgende verbeteringen doorgevoerd of aanbevolen:
 
