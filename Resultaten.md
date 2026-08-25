@@ -519,17 +519,35 @@ Dit concept combineert uitleg, begeleiding en hulp in één toegankelijke ervari
 
 [<u>https://carve-bagel-18994557.figma.site</u>](https://carve-bagel-18994557.figma.site/)
 
-<img src="./media/image42.jpg" style="width:4.76562in;height:6.35681in" />
+<p align="center">
+  <img
+    src="./media/image9-gedraaid.jpg"
+    width="100%"
+    alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers."
+  />
+</p>
 
-***Figuur 10.** Conceptschets voor 'Hulp & Begeleiding' met focus op een toegankelijke navigatie voor kwetsbare burgers.*
+**Figuur 10.** *Conceptschets voor ‘Hulp & Begeleiding’, met focus op toegankelijke navigatie voor kwetsbare burgers.*
 
-<img src="./media/image10.jpg" style="width:4.67187in;height:6.23564in" />
+<p align="center">
+  <img
+    src="./media/image1-gedraaid.jpg"
+    width="100%"
+    alt="Uitwerking van het helpcentrum en de interactieve rondleiding."
+  />
+</p>
 
-***Figuur 11**. Uitwerking van het help-centrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.*
+**Figuur 11.** *Uitwerking van het helpcentrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.*
 
-<img src="./media/image44.png" style="width:6.26772in;height:6.125in" />
+<p align="center">
+  <img
+    src="./media/image7.png"
+    width="100%"
+    alt="Overzicht van de hulpchat voor gebruikers die onderdelen van de tijdlijn niet begrijpen."
+  />
+</p>
 
-***Figuur 12.** Overzicht hulpchat voor mensen die bepaalde tijdlijnen niet begrijpen*
+**Figuur 12.** *Overzicht van de hulpchat voor gebruikers die bepaalde tijdlijnen niet begrijpen.*
 
 ### Realize
 
