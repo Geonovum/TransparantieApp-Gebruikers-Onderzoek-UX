@@ -66,7 +66,7 @@ Dit soort structuren zijn herkenbaar in bestandssystemen zoals Google Drive, waa
 
 Daarnaast sluiten timeline- en inboxpatronen goed aan bij het gedrag van gebruikers. In deze patronen wordt informatie chronologisch gepresenteerd, vaak met de meest recente gebeurtenissen bovenaan.
 
-<img src="./media/image48.png" style="width:6.26772in;height:3.41667in" alt="Screenshot van de Google Geschiedenis-pagina met een chronologische tijdlijn." />
+<img src="./media/image23.png" style="width:6.26772in;height:3.41667in" alt="Screenshot van de Google Geschiedenis-pagina met een chronologische tijdlijn." />
 
 ***Figuur 3.** Voorbeeld van een oneindige tijdlijn (infinite scroll) zoals toegepast in Google History, waarbij gegevens chronologisch terug in de tijd worden ontsloten.*
 
@@ -78,7 +78,7 @@ Bij grote hoeveelheden data spelen ook zoek- en filtermechanismen een belangrijk
 
 Zo bieden webshops zoals Bol.com en Amazon uitgebreide filteropties waarmee gebruikers producten kunnen selecteren op prijs, categorie of specificaties. Ook zoekmachines zoals Google stellen gebruikers in staat om direct relevante informatie te vinden zonder door alle resultaten te hoeven bladeren. Binnen applicaties zoals dashboards of databanken worden filters en zoekvelden gebruikt om grote hoeveelheden informatie te structureren en toegankelijk te maken. Deze mechanismen helpen gebruikers om efficiënt te navigeren binnen complexe datasets en snel tot de juiste informatie te komen.
 
-<img src="./media/image27.jpg" style="width:4.625in;height:3.45333in" alt="Voorbeeld van een filterinterface op een e-commerce website." />
+<img src="./media/image31.jpg" style="width:4.625in;height:3.45333in" alt="Voorbeeld van een filterinterface op een e-commerce website." />
 
 ***Figuur 4.** Filterinterface van een e-commerce platform*
 
@@ -88,7 +88,7 @@ Het gebruik van multi-view interfaces (Nielsen Norman Group, z.d.) is een belang
 
 Dit patroon is terug te zien in applicaties zoals Google Analytics, waar gebruikers kunnen schakelen tussen dashboards, grafieken en detailrapportages. Ook in kaartapplicaties zoals Google Maps kunnen gebruikers wisselen tussen verschillende weergaven, zoals kaart, satellietbeeld en navigatiemodus. In projectmanagementtools zoals Notion of Jira kunnen gegevens worden bekeken als lijst, board (Kanban) of tijdlijn. Door meerdere weergaven aan te bieden, kunnen gebruikers zelf bepalen hoe zij informatie het beste interpreteren en gebruiken.
 
-<img src="./media/image16.jpg" style="width:4.625in;height:3.45333in" alt="Screenshot van een projectmanagementtool die lijsten, kanban-borden en kalenderweergaven toont." />
+<img src="./media/image14.jpg" style="width:4.625in;height:3.45333in" alt="Screenshot van een projectmanagementtool die lijsten, kanban-borden en kalenderweergaven toont." />
 
 ***Figuur 5.** Multi-view interface in een projectmanagementtool*
 
