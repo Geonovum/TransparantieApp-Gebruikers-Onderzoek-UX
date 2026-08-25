@@ -604,4 +604,3 @@ Op basis van deze bevindingen zijn de volgende verbeteringen doorgevoerd of aanb
 - **UI/UX optimalisatie:** Vergroot de zichtbaarheid van de downloadknop en zorg voor een robuuste responsieve weergave voor tablets en desktops, aangezien dit een sterke voorkeur genoot.
 
 - **Handelingsperspectief:** Bied bij onduidelijkheden direct contactgegevens of een verwijzing naar de website van de betreffende organisatie aan.
-
