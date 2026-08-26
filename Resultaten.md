@@ -116,22 +116,111 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 #### Prototype 1: Overzicht algemeen design
 
-| <img src="./media/image2.png" style="width:2.97917in;height:7.84722in" alt="Inlogscherm van het TransparantieApp prototype met welkom tekst en inlogknop." /> | <img src="./media/image30.png" style="width:2.97917in;height:6.44444in" alt="Scherm voor het selecteren van datadomeinen in de TransparantieApp." />                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./media/image35.png" style="width:2.97917in;height:9.26645in" />                                                                                    | <img src="./media/image1.png" style="width:2.97917in;height:6.44444in" alt="Overzichtsscherm met recente gebeurtenissen en laatste updates van gegevensverwerkingen." /> |
-| <img src="./media/image7.png" style="width:2.97917in;height:6.44444in" />                                                                                     | <img src="./media/image36.png" style="width:2.97917in;height:6.44444in" />                                                                                               |
-| <img src="./media/image39.png" style="width:2.97917in;height:6.44444in" />                                                                                    | <img src="./media/image38.png" style="width:2.97917in;height:6.44444in" />                                                                                               |
 
+<p align="center">
+  <img
+    src="./media/image11.png"
+    width="48%"
+    alt="Inlogscherm van het prototype van de TransparantieApp, met uitleg over inzicht, meldingen en controle."
+  />
+  <img
+    src="./media/image21.png"
+    width="48%"
+    alt="Keuzescherm met datadomeinen, waaronder identiteit, inkomen, zorg en wonen."
+  />
+</p>
+
+<p align="center">
+  <em>1. Inloggen</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>2. Datadomeinen verkennen</em>
+</p>
+
+<p align="center">
+  <img
+    src="./media/image25.png"
+    width="48%"
+    alt="Volledig keuzescherm met acht datadomeinen en een knop om naar de volgende stap te gaan."
+  />
+  <img
+    src="./media/image15.png"
+    width="48%"
+    alt="Overzichtsscherm met recente gebeurtenissen en de laatste updates van gegevensverwerkingen."
+  />
+</p>
+
+<p align="center">
+  <em>3. Datadomeinen selecteren</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>4. Laatste updates</em>
+</p>
+
+<p align="center">
+  <img
+    src="./media/image3.png"
+    width="48%"
+    alt="Scherm Mijn dossier met lopende en afgeronde overheidsprocessen, waaronder diplomawaardering en toeslagen."
+  />
+  <img
+    src="./media/image36.png"
+    width="48%"
+    alt="Scherm Gegevensuitwisseling met uitleg en filters voor domeinen en gebeurtenissen."
+  />
+</p>
+
+<p align="center">
+  <em>5. Mijn dossier</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>6. Gegevensuitwisseling filteren</em>
+</p>
+
+<p align="center">
+  <img
+    src="./media/image35.png"
+    width="48%"
+    alt="Tijdlijn met organisaties, verwerkingsstappen en gedeelde gegevens voor een zorgtoeslagaanvraag."
+  />
+  <img
+    src="./media/image37.png"
+    width="48%"
+    alt="Scherm Datavoorkeuren waarop de gebruiker gevolgde domeinen en organisaties kan selecteren en opslaan."
+  />
+</p>
+
+<p align="center">
+  <em>7. Stappen in de gegevensuitwisseling</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>8. Datavoorkeuren beheren</em>
+</p>
 
 
 
 ### Prototype 2: Overzicht WOZ -gerichte design
+<p align="center">
+  <img
+    src="./media/image26.png"
+    width="48%"
+    alt="Scherm voor het selecteren van het datadomein Wonen en leefomgeving."
+  />
+  <img
+    src="./media/image13.png"
+    width="48%"
+    alt="Welkomstscherm van het WOZ-overzicht met gebruikersinformatie en statistieken."
+  />
+</p>
 
-| <img src="./media/image21.png" style="width:2.97917in;height:6.44444in" alt="Scherm voor het selecteren van specifieke datadomeinen zoals wonen en leefomgeving." /> | <img src="./media/image19.png" style="width:2.97917in;height:6.44444in" alt="Welkomstscherm van het WOZ-overzicht met gebruikersinformatie en statistieken." />               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./media/image32.png" style="width:2.97917in;height:6.44444in" alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van updates." />                  |                                                                                                                                                                               |
-| <img src="./media/image6.png" style="width:2.78125in;height:9.18147in" />                                                                                            | <img src="./media/image6.png" style="width:2.84375in;height:9.38103in" alt="Detailweergave van een gegevensuitwisselingsproces met stappen van verzending naar ontvangst." /> |
-| <img src="./media/image6.png" style="width:2.84375in;height:9.06853in" />                                                                                            |                                                                                                                                                                               |
+<p align="center">
+  <img
+     width="48%"
+    src="./media/image34.png"
+    alt="Overzichtsscherm van het WOZ-dossier met een tijdlijn van recente updates."
+  />
+  <img
+     width="48%"
+    src="./media/image4.png"
+    alt="Detailweergave van een gegevensuitwisselingsproces met de verschillende verwerkingsstappen."
+  />
+</p>
 
 ### Evaluatie (Evaluate)
 
@@ -340,36 +429,53 @@ Een prominente 'Waarom'-knop bij elke processtap die een transparantie component
 **Samenvatting**
 
 Dit concept verlaagt de drempel voor transparantie door uitleg een integraal onderdeel te maken van de interface.
-
 <p align="center">
   <img
-    src="./media/image9-gedraaid.jpg"
-    width="100%"
-    alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers."
+    src="./media/image12.jpg"
+    style="width:100%;height:auto;transform:rotate(180deg);"
+    alt="Eerste conceptschetsen van de Waarom-knop en transparantiecomponent."
   />
 </p>
 
-**Figuur 10.** *Conceptschets voor ‘Hulp & Begeleiding’, met focus op toegankelijke navigatie voor kwetsbare burgers.*
+<p>
+  <strong>Figuur 7.</strong>
+  <em>Eerste conceptschetsen van de ‘Waarom-knop’ en transparantiecomponent. De schets toont hoe uitleg over besluitvorming, zoals de WOZ-waarde, direct toegankelijk kan worden gemaakt in de interface.</em>
+</p>
 
 <p align="center">
   <img
-    src="./media/image1-gedraaid.jpg"
-    width="100%"
-    alt="Uitwerking van het helpcentrum en de interactieve rondleiding."
+    src="./media/image30.jpg"
+    style="width:100%;height:auto;"
+    alt="Aanvullende conceptschets van de transparantiecomponent met uitleg over de WOZ-berekening."
   />
 </p>
 
-**Figuur 11.** *Uitwerking van het helpcentrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.*
+<p>
+  <strong>Figuur 8.</strong>
+  <em>Aanvullende schets van de transparantiecomponent waarin de gelaagde opbouw van informatie wordt verkend.</em>
+</p>
 
 <p align="center">
   <img
-    src="./media/image7.png"
-    width="100%"
-    alt="Overzicht van de hulpchat voor gebruikers die onderdelen van de tijdlijn niet begrijpen."
+    src="./media/image27.jpg"
+    style="width:100%;height:auto;"
+    alt="Conceptschets van een stapsgewijze uitleg over de WOZ-waarde."
   />
 </p>
 
-**Figuur 12.** *Overzicht van de hulpchat voor gebruikers die bepaalde tijdlijnen niet begrijpen.*
+<p align="center">
+  <img
+    src="./media/image28.png"
+    style="width:100%;height:auto;"
+    alt="Uitgewerkte interfaceschermen met uitleg over de WOZ-waarde, gebruikte gegevens en berekening."
+  />
+</p>
+
+<p>
+  <strong>Figuur 9.</strong>
+  <em>Detailweergaven van de interface met de ‘Waarom’-uitleg voor specifieke processtappen.</em>
+</p>
+
 
 #### Concept 2 – Hulp & Begeleiding (Els)
 
@@ -413,17 +519,35 @@ Dit concept combineert uitleg, begeleiding en hulp in één toegankelijke ervari
 
 [<u>https://carve-bagel-18994557.figma.site</u>](https://carve-bagel-18994557.figma.site/)
 
-<img src="./media/image42.jpg" style="width:4.76562in;height:6.35681in" />
+<p align="center">
+  <img
+    src="./media/image9.jpg"
+    width="100%"
+    alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers."
+  />
+</p>
 
-***Figuur 10.** Conceptschets voor 'Hulp & Begeleiding' met focus op een toegankelijke navigatie voor kwetsbare burgers.*
+**Figuur 10.** *Conceptschets voor ‘Hulp & Begeleiding’, met focus op toegankelijke navigatie voor kwetsbare burgers.*
 
-<img src="./media/image10.jpg" style="width:4.67187in;height:6.23564in" />
+<p align="center">
+  <img
+    src="./media/image1.jpg"
+    width="100%"
+    alt="Uitwerking van het helpcentrum en de interactieve tour."
+  />
+</p>
 
-***Figuur 11**. Uitwerking van het help-centrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.*
+**Figuur 11.** *Uitwerking van het helpcentrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.*
 
-<img src="./media/image44.png" style="width:6.26772in;height:6.125in" />
+<p align="center">
+  <img
+    src="./media/image7.png"
+    width="100%"
+    alt="Overzicht van de hulpchat voor gebruikers die onderdelen van de tijdlijn niet begrijpen."
+  />
+</p>
 
-***Figuur 12.** Overzicht hulpchat voor mensen die bepaalde tijdlijnen niet begrijpen*
+**Figuur 12.** *Overzicht van de hulpchat voor gebruikers die bepaalde tijdlijnen niet begrijpen.*
 
 ### Realize
 
@@ -435,16 +559,43 @@ Tijdens het ontwerpproces was een doel om ook te onderzoeken of het presenteren 
 
 Om de impact van de informatiearchitectuur op de begrijpelijkheid te valideren, zijn twee verschillende prototypes ontwikkeld. Het eerste prototype volgt een standaard navigatie-opbouw (Menu \> Tijdlijn \> Detailoverzicht) en fungeert als het referentiekader voor de gebruikelijke informatiestromen. Het tweede prototype biedt een flexibele datastructuur, waarin gebruikers de mogelijkheid hebben om de informatie zowel chronologisch (tijdlijn) als hiërarchisch (organisatieoverzicht) te rangschikken. Door middel van een interactieve 'toggle' in het prototype konden gebruikers naadloos schakelen tussen deze twee perspectieven. Hiermee was het mogelijk om in de testomgeving direct te observeren welke ordeningsmethode het meest intuïtief is voor het beantwoorden van specifieke hulpvragen.
 
-#### Prototype 1: Normale flow Mijn PGO\> Tijdlijn\> Detail
+#### Prototype 1: normale flow Mijn PGO → Tijdlijn → Detail
 
-| <img src="./media/image20.png" style="width:2.97917in;height:9.26389in" /> | <img src="./media/image24.png" style="width:2.97917in;height:8.66228in" alt="Tijdlijnweergave van gegevensuitwisselingen binnen de PGO-omgeving." />              |
-|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./media/image11.png" style="width:2.97917in;height:9.4227in" />  | <img src="./media/image28.png" style="width:2.97917in;height:9.16228in" alt="Detailoverzicht van een specifieke gegevensuitwisseling, zoals een verwijsbrief." /> |
+<p align="center">
+  <img
+    src="./media/image19.png"
+    width="48%"
+    alt="Dashboard van de PGO-omgeving met toegang tot gegevensuitwisselingen, dossier, documenten en andere onderdelen."
+  />
+  <img
+    src="./media/image18.png"
+    width="48%"
+    alt="Tijdlijnweergave van gegevensuitwisselingen binnen de PGO-omgeving."
+  />
+</p>
 
-#### Prototype 2 Normale flow Mijn PGO\> Toggle
+<p align="center">
+  <img
+    src="./media/image2.png"
+    width="48%"
+    alt="Tijdlijn met beschikbare en tijdelijk niet-beschikbare gegevensuitwisselingen."
+  />
+  <img
+    src="./media/image29.png"
+    width="48%"
+    alt="Detailoverzicht van een specifieke gegevensuitwisseling, zoals een verwijsbrief."
+  />
+</p>
 
-| <img src="./media/image31.png" style="width:2.97917in;height:9.56853in" /> | <img src="./media/image31.png" style="width:2.97917in;height:16.58333in" /> |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+#### Prototype 2: normale flow Mijn PGO → Toggle
+
+<p align="center">
+  <img
+    src="./media/image8.png"
+    width="100%"
+    alt="Overzicht van gegevensuitwisselingen met een keuzeschakelaar tussen Organisaties en Tijdlijn."
+  />
+</p>
 
 ### Evaluate
 
@@ -466,37 +617,73 @@ Qua gemiddeld gerapporteerd gebruiksgemak lagen de tijdlijnversie en de organisa
 
 In grote lijnen suggereert de data dus dat de organisatieversie beter werkt dan de tijdlijnversie, maar slechts marginaal. Bij het nader bekijken van de individuele taken, worden echter relevantere verschillen zichtbaar (zie figuur 13).
 
-<img src="./media/image12.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image16.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak per taak voor de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 13: Gemiddeld gebruiksgemak per taak, vergelijking tussen beide versies
+**Figuur 13.** *Gemiddeld gebruiksgemak per taak, vergeleken tussen de tijdlijnversie en de organisatieversie.*
 
-<img src="./media/image46.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image39.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 1 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 14: Gemiddeld gebruiksgemak taak 1
+**Figuur 14.** *Gemiddeld gebruiksgemak voor taak 1.*
 
 Zoals te zien was er geen significant verschil in ervaren gebruiksgemak tussen de twee versies wat betreft het vinden van de organisatie die de verwijsbrief van de gebruiker gedeeld heeft, hoewel de voorkeur lichtelijk naar de tijdlijnversie ging (5,6 tegen 5,2). Er was wel in beide gevallen verwarring over de juiste navigatie, zoals eerder in het document omschreven werd.
 
-<img src="./media/image13.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image10.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 2 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 15: Gemiddeld gebruiksgemak taak 2
+**Figuur 15.** *Gemiddeld gebruiksgemak voor taak 2.*
 
 Ook voor het vinden van de laatste gegevensuitwisseling was er geen groot verschil in ervaren gebruikersgemak. In dit geval had de organisatieversie een minimale voorkeur (6,6 tegen 6.2), maar het slagingspercentage van deze taak was in beide gevallen 100%.
 
-<img src="./media/image26.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image24.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 3 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 16: Gemiddeld gebruiksgemak taak 3
+**Figuur 16.** *Gemiddeld gebruiksgemak voor taak 3.*
 
 Dit was de eerste taak waarin een significant verschil werd waargenomen. Het downloaden van de tijdlijn was voor testers van de tijdlijnversie simpel, terwijl twee van de testers van de organisatievisie er niet in slaagden om de taak te voltooien. Met een score van 4,2 tegen 6,4, een verschil van ruim 31% ervaren gebruiksgemak, is dit duidelijk een zwakte van de organisatieversie.
 
-<img src="./media/image14.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image17.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 4 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 17: Gemiddeld gebruiksgemak taak 4
+**Figuur 17.** *Gemiddeld gebruiksgemak voor taak 4.*
 
 Het gemak van het vinden van alle documenten bij een specifieke organisatie liep nog verder uiteen: drie falende testers bij de tijdlijnversie versus één bij de organisatieversie, scores van 2,2 tegen 5,2, een verschil van 43%. Dit resultaat maakt duidelijk dat het organisatiefilter op de tijdlijnversie significant minder goed werkt voor eindgebruikers dan de organisatievisie als het aankomt op het vinden van data per organisatie.
 
-<img src="./media/image25.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image22.png"
+    width="100%"
+    alt="Staafdiagram met het gemiddelde gebruiksgemak voor taak 5 in de tijdlijnversie en organisatieversie."
+  />
+</p>
 
-Figuur 18: Gemiddeld gebruiksgemak taak 5
+**Figuur 18.** *Gemiddeld gebruiksgemak voor taak 5.*
 
 De laatste taak, het uitzoeken welke organisaties betrokken waren bij de meest recente gegevensuitwisseling, scoorde in beide versies identiek (6,2) en had in beide gevallen een slagingspercentage van 100%.
 
@@ -516,15 +703,27 @@ Waarschijnlijk is de beste optie om gebruikers zowel een tijdlijn overzicht als 
 
 Uit de gebruikerstest blijkt dat de knop **Gegevensuitwisseling** over het algemeen goed vindbaar is. Van de tien deelnemers vonden er acht direct de juiste plek en uiteindelijk slaagden per variant vier van de vijf deelnemers erin om de gevraagde informatie te vinden. Tegelijkertijd blijkt dat de mentale verwachting van gebruikers niet altijd overeenkomt met de gekozen navigatiestructuur. Vier van de tien deelnemers gaven aan dat het slechts gedeeltelijk duidelijk was waar ze moesten zoeken, één van de tien gaf aan dat het totaal niet duidelijk was.
 
-<img src="./media/image47.png" style="width:6.26772in;height:3.875in" alt="Diagram" />
+<p align="center">
+  <img
+    src="./media/image40.png"
+    width="100%"
+    alt="Staafdiagram met antwoorden op de vraag of direct duidelijk was waar naar de verwijsbrief gezocht moest worden."
+  />
+</p>
 
-Figuur 19: Inventarisatie duidelijkheid waar te zoeken naar de verwijsbrief.
+**Figuur 19.** *Inventarisatie van de duidelijkheid over waar gebruikers naar de verwijsbrief moesten zoeken.*
 
 In hun uitweiding over waar deelnemers hadden verwacht te moeten zoeken werden vooral **Documenten** en **Dossier** genoemd, zie figuur 20.
 
-<img src="./media/image49.png" style="width:6.26772in;height:3.76389in" />
+<p align="center">
+  <img
+    src="./media/image20.png"
+    width="100%"
+    alt="Staafdiagram met het aantal deelnemers dat verschillende locaties noemde tijdens het zoeken naar de verwijsbrief."
+  />
+</p>
 
-Figuur 20: Aantal keren dat een specifieke locatie genoemd werd tijdens het zoeken naar de verwijsbrief
+**Figuur 20.** *Aantal keren dat een specifieke locatie werd genoemd tijdens het zoeken naar de verwijsbrief.*
 
 #### Ontvangers, verzenders en betrokken partijen
 

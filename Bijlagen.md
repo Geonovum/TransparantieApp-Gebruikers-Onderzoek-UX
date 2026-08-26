@@ -177,9 +177,37 @@ Het concept transformeert een statisch besluit naar een uitlegbaar systeem. Gebr
 
 **Prototypes**
 
-<img src="./media/image41.jpg" style="width:6.26772in;height:4.69444in" /><img src="./media/image45.jpg" style="width:6.26772in;height:8.36111in" /><img src="./media/image22.jpg" style="width:6.26772in;height:8.36111in" />
+<p align="center">
+  <img
+    src="./media/image12.jpg"
+    width="100%"
+    alt="Eerste conceptschets van de Waarom-knop en transparantiecomponent."
+  />
+</p>
 
-<img src="./media/image37.png" style="width:6.26772in;height:4.88889in" />
+<p align="center">
+  <img
+    src="./media/image30.jpg"
+    width="100%"
+    alt="Conceptschets van uitleg over de berekening en de gebruikte gegevens."
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./media/image27.jpg"
+    width="100%"
+    alt="Conceptschets van een stapsgewijze uitleg over de WOZ-waarde."
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./media/image28.png"
+    width="100%"
+    alt="Uitgewerkte interfaceschermen met uitleg over de WOZ-waarde, woninggegevens en berekening."
+  />
+</p>
 
 ### Concept 2 – Hulp & Begeleiding (Els)
 
@@ -239,9 +267,39 @@ Deze vragen werken zowel als FAQ (klikbare opties) als input voor een chatbot, w
 
 Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combineert uitleg, begeleiding en hulp van anderen binnen één geïntegreerde ervaring. Door FAQ en chatbot-functionaliteit te combineren ontstaat een consistente en toegankelijke manier van interactie.
 
-**Prototypes**<img src="./media/image40.jpg" style="width:4.57812in;height:6.1067in" /><img src="./media/image42.jpg" style="width:4.76562in;height:6.35681in" /><img src="./media/image10.jpg" style="width:4.67187in;height:6.23564in" />
+**Prototypes**
 
-<img src="./media/image44.png" style="width:6.26772in;height:6.125in" />
+<p align="center">
+  <img
+    src="./media/image38.jpg"
+    width="100%"
+    alt="Eerste conceptschets voor Hulp en Begeleiding binnen de TransparantieApp."
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./media/image9.jpg"
+    width="100%"
+    alt="Conceptschets van een helpcentrum met onderwerpen, contactmogelijkheden en ondersteuning."
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./media/image1.jpg"
+    width="100%"
+    alt="Conceptschets van toegankelijke begeleiding voor een gebruiker die ondersteuning nodig heeft."
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./media/image7.png"
+    width="100%"
+    alt="Uitgewerkt ontwerp van de hulpchat met veelgestelde vragen en contactmogelijkheden."
+  />
+</p>
 
 **LINK NAAR FINAL PROTOTYPE:**
 
