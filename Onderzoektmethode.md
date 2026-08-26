@@ -1,8 +1,8 @@
-# 2. Onderzoeksmethode: gebruikersonderzoek bij het ontwerpen van een standaard
+# Onderzoeksmethode: gebruikersonderzoek bij het ontwerpen van een standaard
 
 In dit hoofdstuk beschrijven we de onderzoeksaanpak voor een standaard waarbij burgers als eindgebruikers betrokken zijn. In dit onderzoek is gebruikgemaakt van een iteratieve ontwerpaanpak bestaande uit twee cycli (zie figuur 1). Deze aanpak combineert elementen van Design Thinking en Engineering, waarbij zowel exploratie als validatie centraal staan. Daarnaast is de aanpak geïnspireerd op bestaande ontwerpmodellen uit de Creative Technology-literatuur, waarin een proces wordt beschreven bestaande uit de fasen ideation, specification, realisation en evaluation (Mader & Eggink, 2014).
 
-## 2.1 Fases van het ontwerpproces en gebruikersonderzoek
+## Fases van het ontwerpproces en gebruikersonderzoek
 
 De vier fasen in dit onderzoek worden als volgt geïnterpreteerd:
 
@@ -28,23 +28,24 @@ De tweede cyclus richtte zich op het verfijnen en valideren van het ontwerp. In 
 
 Het ontwerp is vervolgens verder uitgewerkt en toegepast op een tweede casus Volksgezondheid, Welzijn en Sport (VWS), waarbij de inzichten zijn vertaald naar concrete ontwerpvereisten en ontwerpprincipes. Het resulterende ontwerp is opnieuw geëvalueerd, met als doel te toetsen of eerder geïdentificeerde knelpunten zijn opgelost en of het ontwerp aansluit bij een realistische gebruikscontext.
 
-<img src="./media/CyclesMethod.png" style="width:6.26772in;height:5.01389in" alt="Diagram van de twee ontwikkelcycli (Ideate, Define, Realize, Evaluate) voor de TransparantieApp." />
-
-***[Figuur 1](https://geonovum.github.io/TransparantieApp-Gebruikers-Onderzoek-UX/#fig-afbeelding-1-cycles-for-iteraties-van-de-ontwikkeling-van-de-transparantie-app) .** Cycli voor iteraties van de ontwikkeling van de transparantieapp*
+<figure>
+  <img src="./media/CyclesMethod.png" style="width:6.26772in;height:5.01389in" alt="Diagram van de twee ontwikkelcycli (Ideate, Define, Realize, Evaluate) voor de TransparantieApp." />
+  <figcaption>Cycli voor iteraties van de ontwikkeling van de transparantieapp</figcaption>
+</figure>
 
 Deze variatie in aanpak wordt in dit onderzoek expliciet gedemonstreerd in de toepassing van de methode op het ontwerp van de TransparantieApp. In de eerste cyclus lag de nadruk op het verkrijgen van inzicht in gebruikersbehoeften en mentale modellen, terwijl in de tweede cyclus meer focus lag op co-creatie, het toepassen van UX-patronen en het testen binnen een realistische context.
 
 De gehanteerde aanpak volgt daarmee een iteratief en cyclisch karakter, vergelijkbaar met het spiraalmodel uit de literatuur, waarin ontwerpstappen herhaald worden en continu worden bijgestuurd op basis van nieuwe inzichten (Mader & Eggink, 2014). Deze werkwijze maakte het mogelijk om het ontwerp stapsgewijs te verfijnen op basis van zowel gebruikersbehoeften als bestaande best practices.
 
-## 2.2 Verkenning en definitie (Ideate & Define)
+## Verkenning en definitie (Ideate & Define)
 
-### 2.2.1 Begrijpen van de projectcontext
+### Begrijpen van de projectcontext
 
 Het onderzoek begon met gesprekken met verschillende stakeholders, waaronder de projectleider, juristen, experts op het gebied van datatransparantie binnen de overheid, en de ontwerper van de VO-Rijkapp.
 
 Deze gesprekken gaven inzicht in het spanningsveld waarin het project zich bevindt en de verschillende belangen die daarin samenkomen. Door deze context vroegtijdig scherp te krijgen, kon het gebruikersonderzoek beter aansluiten op zowel de behoeften van stakeholders als die van eindgebruikers. Tegelijkertijd droeg dit bij aan het draagvlak binnen en buiten de organisatie.
 
-### 2.2.2 De eindgebruiker centraal stellen
+### De eindgebruiker centraal stellen
 
 Een belangrijk uitgangspunt van dit project was het centraal stellen van de eindgebruiker. Dit betekent dat empathie en begrip voor de gebruiker een expliciete rol spelen in ontwerpkeuzes en discussies gedurende het ontwikkelproces.
 
@@ -56,7 +57,7 @@ De persona’s zijn in eerste instantie gebaseerd op literatuuronderzoek. Hoewel
 
 Verder is er ook tijdens de ontwerpiteraties gebruikgemaakt van “experience mapping". Dit is anders dan algemene klantreizen. Experience maps generaliseren het concept van klantreizen (customer-journey maps) over verschillende gebruikerstypen en producten heen. Waar een klantreiskaart zich vaak richt op de interactie met één specifiek product, biedt een experience map een holistisch overzicht van de gehele ervaring van de gebruiker gedurende een langere periode, ongeacht de gebruikte kanalen of systemen. Zoals beschreven door de Nielsen Norman Group, helpt deze methode om te begrijpen wat gebruikers denken, voelen en ervaren in hun bredere context, in plaats van alleen de functionele stappen die zij in een interface zetten (Nielsen Norman Group, z.d.). Voor de TransparantieApp is dit cruciaal: het helpt ons inzien dat transparantie niet stopt bij de app zelf, maar deel uitmaakt van de bredere interactie die burgers hebben met overheidsinstanties.
 
-### 2.2.3 Afbakening met behulp van casussen
+### Afbakening met behulp van casussen
 
 Het domein van dit project is breed en omvat een groot aantal overheidsorganisaties. Om het onderzoek behapbaar te maken voor deelnemers, is ervoor gekozen om te werken met concrete use cases.
 
@@ -74,15 +75,15 @@ Bij het kiezen van de casussen de volgende uitgangspunten gehanteerd:
 
 - De implementatie van de standaard moet grotendeels geautomatiseerd kunnen plaatsvinden, zonder extra menselijke handelingen.
 
-## 2.3 Uitwerking en evaluatie (Realize & Evaluatie)
+## Uitwerking en evaluatie (Realize & Evaluatie)
 
-### 2.3.1 Het concept visueel en begrijpelijk maken
+### Het concept visueel en begrijpelijk maken
 
 Gezien het onderwerp van dit project abstract en technisch van aard is, is ervoor gekozen om al vroeg in het proces prototypes te ontwikkelen. Dit stelt gebruikers in staat om het concept te ervaren, in plaats van het alleen te moeten begrijpen op basis van uitleg.
 
 Binnen dit project is gebruikgemaakt van AI-ondersteunde prototyping via [Figma Make](https://www.figma.com/make/?gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_campaign=23728490621&utm_term=figma%20make&utm_content=807306859137&utm_adgroup=198163568347&gad_source=1&gad_campaignid=23728490621&gbraid=0AAAAACTf0kPadX4r1ssqO5DtxuYJ2ybiN&gclid=CjwKCAjwqubPBhBOEiwAzgZX2h0qQyaG72AmrW_QKshcQeIEuRLoKi2U3r_NeTzpIlY6blZ2cH1YqRoCcm4QAvD_BwE). Dit faciliteerde snelle iteraties en het verkennen van meerdere ontwerpvarianten in een vroeg stadium van het ontwerpproces. Hierdoor konden ideeën sneller worden gevalideerd met eindgebruikers. Deze werkwijze sluit aan bij een exploratieve UX-aanpak, waarin het genereren en testen van ideeën centraal staat. De interactieve prototypes gaven gebruikers de ruimte om zelfstandig de applicatie te navigeren en een eigen mening te vormen.
 
-### 2.3.2 Ontwerpen en testen van oplossingsrichtingen
+### Ontwerpen en testen van oplossingsrichtingen
 
 Op basis van de prototypes zijn gebruikerstesten uitgevoerd om inzicht te krijgen in de behoeften en verwachtingen van burgers. Hierbij is iteratief gewerkt: inzichten uit testen leidden direct tot aanpassingen in het ontwerp voor de volgende cyclus. De eerste focus lag op de flow van de app, om zo te bepalen welke aspecten van de app het belangrijkst zijn. De ontwerpaanpak is geïnspireerd op de werkwijze van de VO-Rijkapp, waarbij stapsgewijs interfaces worden getest om te bepalen welke componenten voor gebruikers daadwerkelijk waarde toevoegen.
 
@@ -90,19 +91,19 @@ Technisch vaardige gebruikers zijn wegens efficiëntie getest via unmoderated en
 
 Naast het testen is er tevens design research uitgevoerd in de vorm van literatuuronderzoek. Hierbij zijn artikelen bestudeerd en bestaande systemen geanalyseerd, zoals documentmanagementsystemen, muzieksystemen en versiebeheersystemen. Dit gaf inzicht in hoe complexe informatie gestructureerd en gepresenteerd kan worden, en welke ontwerpprincipes daarbij effectief zijn. Daarnaast is eerst gekeken naar de informatiestructuur, namelijk de manier waarop informatie wordt opgebouwd en gepresenteerd. Deze combinatie van testen en literatuuronderzoek heeft de basis gevormd voor verdere ontwerpkeuzes.
 
-###  2.3.3 Divergeren en convergeren
+### Divergeren en convergeren
 
 Het ontwerpproces kenmerkte zich door een afwisseling tussen divergeren en convergeren. In de divergente fase werd breed verkend welke oplossingen mogelijk zijn, zonder directe technische beperkingen. Dit helpt om helder te krijgen wat gebruikers daadwerkelijk nodig hebben.
 
 In de convergente fase werden deze ideeën getoetst aan technische haalbaarheid, in samenwerking met het technische team. Hierdoor werd het spanningsveld zichtbaar tussen gebruikerswensen en technische mogelijkheden. Gebruikerstesten vormden hierbij telkens de basis voor nieuwe iteraties (convergeren) en ontwerpkeuzes (divergeren).
 
-### 2.3.4 Co-creatie en externe input
+### Co-creatie en externe input
 
 Om nieuwe perspectieven te verkennen, is een co-creatie sessie georganiseerd met designers van [Logius](https://www.logius.nl/) op de Digicampus. Logius beschikt over uitgebreide domeinkennis op het gebied van overheidsstandaarden en digitale dienstverlening. Deze expertise maakte de co-creatie sessie bijzonder waardevol, omdat inzichten uit eerdere projecten en bestaande standaarden direct konden worden meegenomen in het ontwerpproces.
 
 Het doel van deze sessie was om buiten het eigen ontwerpkader te denken en alternatieve oplossingen te verkennen. Dit leidde tot een nieuw concept en aanvullende inzichten die het bestaande ontwerp verder hebben verrijkt.
 
-### 2.4 Methodologische beperkingen
+### Methodologische beperkingen
 
 In dit onderzoek, dat iteratief en agile is opgezet, zijn enkele methodologische uitdagingen en beperkingen te benoemen (Agile Scrum Group, n.d.):
 

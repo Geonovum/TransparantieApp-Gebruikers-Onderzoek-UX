@@ -1,7 +1,7 @@
 
-# 4. Conclusie en aanbevelingen
+# Conclusie en aanbevelingen
 
-## 4.1 Conclusie
+## Conclusie
 
 Het hoofddoel van dit onderzoek was het beantwoorden van de vraag hoe transparantie over datagebruik en besluitvorming door de overheid gebruiksvriendelijk kan worden vormgegeven, zonder burgers te overvragen. De conclusie uit dit onderzoek is eenduidig: **transparantie is geen kwestie van kwantiteit, maar van context.**
 
@@ -23,7 +23,7 @@ Het ontwerp voor de 'Kwetsbare Burger', die de hoogste eisen stelt aan taalgebru
 
 Transparantie over overheidsbesluiten kan succesvol vormgegeven worden door het proces van data-uitwisseling niet te zien als een technisch logboek, maar als een verhalende tijdlijn. De balans tussen "volledigheid" (waaraan de burger behoefte heeft) en "eenvoud" (wat noodzakelijk is om de burger niet te overvragen) wordt bewaakt door de gelaagde opbouw van informatie. De TransparantieApp bewijst dat door complexe datastromen te vertalen naar menselijke taal en situationele overzichten, het vertrouwen in de overheid kan worden hersteld, simpelweg door de "waarom-vraag" achter besluiten voor iedereen zichtbaar te maken.
 
-## 4.2 Aanbevelingen
+## Aanbevelingen
 
 Op basis van de conclusie dat transparantie succesvol is wanneer deze gelaagd en contextueel wordt aangeboden, hebben wij de aanbevelingen onderverdeeld in Design & UX-principes en Strategie & Implementatie.
 
@@ -46,7 +46,7 @@ Op basis van de conclusie dat transparantie succesvol is wanneer deze gelaagd en
 
 **8. Onderzoek naar langetermijneffect op vertrouwen:** Start longitudinaal onderzoek om te borgen dat de app structureel bijdraagt aan het herstel van vertrouwen in de overheid.
 
-## 4.3 Toekomstig onderzoek
+## Toekomstig onderzoek
 
 Hoewel dit onderzoek een robuust fundament heeft gelegd voor het UX-ontwerp van de TransparantieApp, is het project een continu proces. Om de impact van de TransparantieApp op de lange termijn te waarborgen en de bruikbaarheid verder te vergroten, adviseren wij de volgende onderzoeksrichtingen voor de komende fase:
 

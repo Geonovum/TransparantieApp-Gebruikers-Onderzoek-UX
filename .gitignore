@@ -1,2 +1,5 @@
 ﻿*_log
 .idea
+
+# Word-bronbestanden; de markdown in deze repo is de gepubliceerde versie
+*.docx

@@ -1,6 +1,6 @@
-# 5. Bijlagen
+# Bijlagen
 
-## 5.1 Bijlage A: Uitgewerkte Persona’s
+## Bijlage A: Uitgewerkte Persona’s
 
 Voor uitleg van de scores, lees uitkomsten van vragenlijst.
 
@@ -93,7 +93,7 @@ De verschillen ontstaan voornamelijk in de behoefte aan verdieping en technische
 
 Deze bevinding ondersteunt de hypothese dat transparantie gelaagd moet worden aangeboden: een gemeenschappelijke basislaag kan voorzien in de informatiebehoefte van alle gebruikers, terwijl aanvullende detailniveaus ruimte bieden aan gebruikers die meer inzicht wensen in gegevensverwerkingen en besluitvorming.
 
-## 5.2 Bijlage B: Verslaglegging Co-creatie sessie
+## Bijlage B: Verslaglegging Co-creatie sessie
 
 ### Concept 1 – Waarom-knop & Transparantiecomponent
 
@@ -177,34 +177,34 @@ Het concept transformeert een statisch besluit naar een uitlegbaar systeem. Gebr
 
 **Prototypes**
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image12.jpg"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Eerste conceptschets van de Waarom-knop en transparantiecomponent."
   />
 </p>
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image30.jpg"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Conceptschets van uitleg over de berekening en de gebruikte gegevens."
   />
 </p>
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image27.jpg"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Conceptschets van een stapsgewijze uitleg over de WOZ-waarde."
   />
 </p>
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image28.png"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Uitgewerkte interfaceschermen met uitleg over de WOZ-waarde, woninggegevens en berekening."
   />
 </p>
@@ -269,34 +269,34 @@ Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combine
 
 **Prototypes**
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image38.jpg"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Eerste conceptschets voor Hulp en Begeleiding binnen de TransparantieApp."
   />
 </p>
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image9.jpg"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Conceptschets van een helpcentrum met onderwerpen, contactmogelijkheden en ondersteuning."
   />
 </p>
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image1.jpg"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Conceptschets van toegankelijke begeleiding voor een gebruiker die ondersteuning nodig heeft."
   />
 </p>
 
-<p align="center">
+<p style="text-align:center">
   <img
     src="./media/image7.png"
-    width="100%"
+    style="width:100%;height:auto"
     alt="Uitgewerkt ontwerp van de hulpchat met veelgestelde vragen en contactmogelijkheden."
   />
 </p>
@@ -305,11 +305,11 @@ Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combine
 
 [<u>https://carve-bagel-18994557.figma.site</u>](https://carve-bagel-18994557.figma.site)
 
-## 5.3 Bijlage C: Testscripts
+## Bijlage C: Testscripts
 
 ### Testscript-WOZ app getest
 
-### **1. Doel van de gebruikerstest**
+### **Doel van de gebruikerstest**
 
 Deze gebruikerstest is uitgevoerd om te onderzoeken of gebruikers zelfstandig hun weg kunnen vinden in de WOZ-app en begrijpen welke informatie de app geeft over de totstandkoming van hun WOZ-waarde.
 
@@ -329,7 +329,7 @@ Daarbij is specifiek gekeken naar:
 
 - gewaardeerde en ontbrekende functionaliteiten.
 
-### **2. Hoofdvraag**
+### **Hoofdvraag**
 
 **In hoeverre kunnen gebruikers zelfstandig de relevante informatie over hun WOZ-waardebepaling vinden en begrijpen, en ondersteunt de app hen hierin op een duidelijke en begrijpelijke manier?**
 
@@ -341,13 +341,13 @@ Kunnen gebruikers zelfstandig navigeren naar de informatie die zij zoeken?
 **Begrijpelijkheid**
 Begrijpen gebruikers de informatie, terminologie en visualisaties wanneer zij deze hebben gevonden?
 
-### **3. Deelnemers**
+### **Deelnemers**
 
 De gebruikerstest is uitgevoerd met **10 deelnemers uit Nederland**. De deelnemers verschilden onder andere in leeftijd, geslacht, opleidingsniveau, werkstatus en online ervaring.
 
 De technische vaardigheid van de deelnemers was relatief hoog: 8 deelnemers werden als gevorderd en 2 als gemiddeld technisch vaardig geclassificeerd.
 
-### **4. Testmethode**
+### **Testmethode**
 
 De deelnemers doorliepen zelfstandig een interactief prototype van de WOZ-app. Tijdens de test werd gebruikgemaakt van de **think-aloud methode:** deelnemers werden gevraagd hardop te vertellen wat zij zagen, wat zij verwachtten en waarom zij bepaalde keuzes maakten.
 
@@ -373,7 +373,7 @@ Het succespercentage (success rate) wordt gehanteerd als de primaire metriek om 
 
 Bij meer verkennende taken, zoals het interpreteren van het navigatiemenu of het uitleggen van de gegevensuitwisseling, ligt de nadruk op kwalitatieve analyse van begrip, verwachtingen en ervaren duidelijkheid.
 
-### **5. Testtaken**
+### **Testtaken**
 
 Taak 1 – Eerste indruk
 
@@ -559,7 +559,7 @@ Achterhalen welke informatie of functionaliteit gebruikers verwachten, maar nog 
 
 *Deze drie vragen komen overeen met de afsluitende surveyvragen uit de uitgevoerde test.*
 
-### **7. Analysecriteria**
+### **Analysecriteria**
 
 De resultaten zijn geanalyseerd aan de hand van drie dimensies: task completion, vindbaarheid en begrijpelijkheid.
 
@@ -609,13 +609,13 @@ Vervolgens is onderzocht:
 
 Door task completion te combineren met observaties en think-aloud-data wordt niet alleen zichtbaar **óf** gebruikers hun doel bereiken, maar ook **waarom** dit wel of niet lukt.
 
-## 5.4 Bijlage D: Vragenlijst Datatransparantie
+## Bijlage D: Vragenlijst Datatransparantie
 
-### 5.41 Onderzoeksopzet
+### Onderzoeksopzet
 
 Voor het UX-onderzoek naar datatransparantie is een online vragenlijst afgenomen onder deelnemers uit Nederland. De vragenlijst richtte zich op het belang van verschillende vormen van inzicht in persoonsgegevens, gewenste functionaliteiten binnen een transparantie-app en de houding van deelnemers tegenover het gebruik van persoonsgegevens door organisaties.
 
-### 5.4.2 Vragenlijst
+### Vragenlijst
 
 **Vraag 1**
 
@@ -789,7 +789,7 @@ Antwoordmogelijkheden:
 
 - Nee
 
-## 5.5 Bijlage E: Experience Map
+## Bijlage E: Experience Map
 
 Deze experience map beschrijft hoe mensen de verwerking en uitwisseling van persoonsgegevens ervaren gedurende hun interactie met organisaties. De kaart laat zien dat gegevensverwerking in de meeste situaties onzichtbaar en probleemloos verloopt. Pas wanneer er iets onverwachts gebeurt, ontstaat de behoefte aan inzicht, uitleg en handelingsperspectief.
 
@@ -832,124 +832,4 @@ Onder iedere experience map staat een ontwerpanalyse. Deze analyse vertaalt de o
 | **Behoefte** | Verklaring          | Context              | Handelingsperspectief | Zekerheid             |
 | **Risico**   | Verwarring          | Informatie-overload  | Machteloosheid        | Wantrouwen            |
 | **Kans**     | Tijdige signalering | Begrijpelijke uitleg | Actie mogelijk maken  | Vertrouwen versterken |
-
-# 6. Lijst met figuren
-
-Figuur 1: Cycli voor iteraties van de ontwikkeling van de transparantieapp
-
-Figuur 2: Gmail-interface als voorbeeld van progressive disclosure
-
-Figuur 3: Voorbeeld van een oneindige tijdlijn (infinite scroll) zoals toegepast in Google History
-
-Figuur 4: Filterinterface van een e-commerce platform
-
-Figuur 5: Multi-view interface in een projectmanagementtool
-
-Figuur 6: Breadcrumbnavigatie in Google Drive
-
-Figuur 7: Eerste conceptschetsen van de 'Waarom-knop' en transparantiecomponent.
-
-Figuur 8: Aanvullende schetsen van de transparantiecomponent
-
-Figuur 9: Detailweergave van de interface met de 'Waarom'-uitleg voor specifieke processtappen.
-
-Figuur 10: Conceptschets voor 'Hulp & Begeleiding' met focus op een toegankelijke navigatie voor kwetsbare burgers.
-
-Figuur 11: Uitwerking van het help-centrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.
-
-Figuur 12: Overzicht hulpchat voor mensen die bepaalde tijdlijnen niet begrijpen
-
-Figuur 13: Gemiddeld gebruiksgemak per taak, vergelijking tussen beide versies
-
-Figuur 14: Gemiddeld gebruiksgemak taak 1
-
-Figuur 15: Gemiddeld gebruiksgemak taak 2
-
-Figuur 16: Gemiddeld gebruiksgemak taak 3
-
-Figuur 17: Gemiddeld gebruiksgemak taak 4
-
-Figuur 18: Gemiddeld gebruiksgemak taak 5
-
-Figuur 19: Inventarisatie duidelijkheid waar te zoeken naar de verwijsbrief.
-
-Figuur 20: Aantal keren dat een specifieke locatie genoemd werd tijdens het zoeken naar de verwijsbrief
-
-# 7. Referenties
-
-- Stichting Kafkabrigade. (n.d.). Onderzoeksrapporten over de wisselwerking tussen overheidsinstanties en burgerproblematiek.
-
-- Stichting Kafkabrigade. (n.d.). Belasting onbekend.
-
-- Mader, A., & Eggink, W. (2014). Creative Technology Design Process.
-
-- Nielsen Norman Group. (2024). Persona’s: A guide to creating and using personas. Geraadpleegd via [<u>https://www.nngroup.com/articles/persona/</u>](https://www.nngroup.com/articles/persona/)
-
-- Nielsen Norman Group. (2024). Experience Mapping. Geraadpleegd via [<u>https://www.nngroup.com/articles/ux-mapping-cheat-sheet/</u>](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
-
-- Bureau Mare. Kwalitatief burgeronderzoek: gegevens bij besluiten.
-
-- Kafka Brigade. De Digitale Kooi. Geraadpleegd via [<u>https://digitalekooi.kafkabrigade.nl/</u>](https://digitalekooi.kafkabrigade.nl/)
-
-- Nielsen Norman Group. (2024). Success Rate: The Simplest Usability Metric. Geraadpleegd via [<u>https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/</u>](https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/)
-
-- Kafka Brigade. Volwassen Digitale Overheid. Geraadpleegd via [<u>https://vdo.kafkabrigade.nl/</u>](https://vdo.kafkabrigade.nl/)
-
-- Tomorrow People. Understanding Your Audience: How to Build a Persona Matrix. Geraadpleegd via [<u>https://tomorrow-people.com/insights/understanding-your-audience-how-to-build-a-persona-matrix/</u>](https://tomorrow-people.com/insights/understanding-your-audience-how-to-build-a-persona-matrix/)
-
-- Tomorrow People. (z.d.). Understanding Your Audience: How to Build a Persona Matrix. Geraadpleegd via [<u>https://tomorrow-people.com/insights/understanding-your-audience-how-to-build-a-persona-matrix/</u>](https://tomorrow-people.com/insights/understanding-your-audience-how-to-build-a-persona-matrix/)
-
-- Mader, A., & Eggink, W. (2014). Creative Technology: literatuur en ontwerpproces.
-
-- Stichting Kafkabrigade. (n.d.). Belasting onbekend.
-
-- Nielsen Norman Group. (2024/z.d.). Onderzoek naar persona's, experience mapping, progressive disclosure, recognition over recall en multi-view interfaces.
-
-- Tomorrow People. (n.d.). Persona matrix methodiek voor prioriteitstelling.
-
-- Nielsen Norman Group (z.d.). Mental Models. Geraadpleegd via [<u>https://www.nngroup.com/videos/mental-models/</u>](https://www.nngroup.com/videos/mental-models/)
-
-- Agile Scrum Group. (n.d.). Agile werken: wat zijn de nadelen? Geraadpleegd op 21 augustus 2026, van [<u>https://agilescrumgroup.nl/agile-werken-nadelen/</u>](https://agilescrumgroup.nl/agile-werken-nadelen/)
-
-# 8. Woordenlijst
-
-Hieronder volgt een overzicht van de in dit onderzoek gehanteerde begrippen en methodieken:
-
-- **API (Application Programming Interface):** De technische koppeling waarmee de TransparantieApp data direct bij de bron ophaalt.
-
-- **Breadcrumbs (Truncated):** Navigatie-element dat de hiërarchische locatie van de gebruiker toont, vaak in een ingekorte vorm om overzicht te behouden.
-
-- **Chunking:** Het groeperen van informatie in kleinere, logische delen om de informatieverwerking te vergemakkelijken en het mentale model te ondersteunen.
-
-- **Contextual navigation:** Navigatiemethoden die de gebruiker helpen de huidige positie in de informatiearchitectuur te begrijpen en desoriëntatie te voorkomen.
-
-- **Design Thinking:** Een iteratieve ontwerpaanpak gericht op het begrijpen van gebruikers en het oplossen van complexe problemen.
-
-- **DigiD:** De centrale authenticatiedienst die wordt gebruikt voor veilige toegang tot overheidsapplicaties zoals de VO-Rijk app.
-
-- **Experience mapping:** Een holistisch overzicht van de gebruikerservaring over een langere periode, over verschillende kanalen en systemen heen.
-
-- **Ideate/Define/Realize/Evaluate:** De vier fasen van het iteratieve ontwerpproces in dit onderzoek, gebaseerd op Creative Technology-modellen.
-
-- **Logboek Dataverwerkingen:** De standaard waarmee overheden vastleggen hoe zij persoonsgegevens verwerken en uitwisselen.
-
-- **Mentale model:** Het interne concept of de verwachting die een gebruiker heeft over hoe een systeem werkt, wat vaak afwijkt van de technische realiteit.
-
-- **Multi-view interface:** Een interface-ontwerp waarbij dezelfde dataset vanuit verschillende perspectieven kan worden bekeken (bijv. lijst, tijdlijn, overzicht).
-
-- **Persona:** Een op onderzoek gebaseerde representatie van een specifiek type gebruiker (bijv. 'Inzagezoeker') om ontwerpkeuzes te sturen.
-
-- **Progressive disclosure:** Ontwerppatroon waarbij informatie stapsgewijs wordt onthuld (van samenvatting naar detail) om de gebruiker niet te overbelasten.
-
-- **Recognition over recall:** Ontwerpprincipe waarbij de gebruiker informatie direct moet kunnen herkennen in plaats van deze uit het geheugen te moeten ophalen.
-
-- **TransparantieApp:** De applicatie in dit onderzoek die transparantie biedt over datagebruik en besluitvorming door de overheid.
-
-- **Visual hierarchy:** De visuele rangschikking van elementen (via grootte, kleur of positie) om aandacht te sturen en prioriteit aan te geven.
-
-- **VO-Rijk app:** Vorderingen Overzicht Rijk-app; de referentie-applicatie voor de transparantie-app wat betreft beveiliging en flow.
-
-- **WCAG 2.2 Level AA:** Een internationale toegankelijkheidsnorm voor webcontent, gericht op maximale digitale toegankelijkheid.
-
-- **WOZ-waarde:** Waardering Onroerende Zaken; een van de use cases in dit onderzoek gebruikt om het abstracte concept van datalogging tastbaar te maken.
 

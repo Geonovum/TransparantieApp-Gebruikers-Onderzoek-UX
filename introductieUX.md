@@ -1,5 +1,5 @@
 
-# 1. Introductie
+# Introductie
 
 De overheid verwerkt dagelijks enorme hoeveelheden persoonsgegevens ten behoeve van besluitvorming. Hoewel er diverse technische standaarden bestaan voor het vastleggen van gegevensverwerking, zoals het Logboek Dataverwerkingen, blijft het voor burgers in de praktijk vaak onduidelijk welke data bij besluiten zijn gebruikt en waarom. Er bestaat een kloof tussen de technisch vastgelegde logging en de informatiebehoefte van de burger. Het toegankelijk en begrijpelijk maken van deze informatie, zonder de gebruiker te overvragen, vormt de kernuitdaging van dit UX-onderzoek.
 
@@ -11,7 +11,7 @@ Dit document fungeert als de specifieke UX-rapportage van het project. Aangezien
 
 Gedurende het traject is een iteratieve, op de gebruiker gerichte ontwerpaanpak gevolgd. Door middel van kwalitatief onderzoek, co-creatie en usability-tests is inzicht verkregen in hoe transparantie effectief vormgegeven kan worden. De kern conclusie uit dit onderzoek is dat transparantie geen kwestie is van technische kwantiteit, maar van menselijke context. Het ontwerp resultaat, zoals in dit rapport beschreven, dient als blauwdruk voor het verder herstellen van het vertrouwen tussen de burger en de overheid.
 
-## 1.1 Probleemdefinitie
+## Probleemdefinitie
 
 Binnen de overheid worden persoonsgegevens van burgers door verschillende organisaties geregistreerd, verwerkt en uitgewisseld. Deze gegevens spelen een rol binnen overheidsprocessen en kunnen bijdragen aan besluiten en uitkomsten die directe gevolgen hebben voor burgers. Voor burgers is echter niet altijd inzichtelijk hoe gegevens, regels en verschillende overheidsorganisaties binnen deze processen met elkaar samenhangen.
 
@@ -47,7 +47,7 @@ Het centrale probleem is dat burgers onvoldoende begrijpelijk en samenhangend in
 
 Het gebrek aan transparantie en samenhang is daarmee niet uitsluitend een informatieprobleem, maar heeft ook invloed op het handelingsvermogen van burgers. Wanneer van burgers wordt verwacht dat zij verantwoordelijkheid nemen, wijzigingen doorgeven en op basis van overheidsinformatie handelen, is het noodzakelijk dat zij voldoende inzicht hebben in de gegevens en processen die hun persoonlijke situatie beïnvloeden.
 
-## 1.1 Doelstelling en onderzoeksvragen
+## Doelstelling en onderzoeksvragen
 
 Het doel van dit onderzoek is om in kaart te brengen hoe de TransparantieApp, oftewel Logboek Dataverwerkingen, extensie lezen, optimaal kan bijdragen aan het inzichtelijk maken van overheidsbesluiten en datagebruik voor de burger. Centraal staat hierbij de hoofdvraag:
 

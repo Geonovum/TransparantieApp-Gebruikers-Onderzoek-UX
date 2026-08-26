@@ -1,3 +1,4 @@
+## Leeswijzer
 
 **Belangrijke notitie:**
 
@@ -10,7 +11,6 @@ Deze rapportage is de documentversie die is afgeleid van de Github omgeving, waa
 | Applicatie Architectuur          |                | https://geonovum.github.io/TransparantieApp-Applicatie-Architectuur/ | https://github.com/Geonovum/TransparantieApp-Applicatie-Architectuur |
 
 
-## Leeswijzer
 
 In dit onderzoek is gebruikgemaakt van een iteratieve ontwerpaanpak, gebaseerd op de principes van Design Thinking en Human-Centered Design. Het proces is opgedeeld in cycli (Ideate, Define, Realize, Evaluate) om ontwerpkeuzes stapsgewijs te valideren en te verfijnen. Door middel van kwalitatief en kwantitatief onderzoek is getracht de behoeften en mentale modellen van burgers in kaart te brengen, om zo tot een ontwerp te komen dat transparantie biedt zonder de gebruiker te overvragen.
 
