@@ -271,7 +271,7 @@ Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combine
 
 <p style="text-align:center">
   <img
-    src="./media/image38.jpg"
+    src="./media/image38v2.jpg"
     style="width:100%;height:auto"
     alt="Eerste conceptschets voor Hulp en Begeleiding binnen de TransparantieApp."
   />
@@ -279,7 +279,7 @@ Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combine
 
 <p style="text-align:center">
   <img
-    src="./media/image9.jpg"
+    src="./media/image9v2.jpg"
     style="width:100%;height:auto"
     alt="Conceptschets van een helpcentrum met onderwerpen, contactmogelijkheden en ondersteuning."
   />
@@ -287,7 +287,7 @@ Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combine
 
 <p style="text-align:center">
   <img
-    src="./media/image1.jpg"
+    src="./media/image1v2.jpg"
     style="width:100%;height:auto"
     alt="Conceptschets van toegankelijke begeleiding voor een gebruiker die ondersteuning nodig heeft."
   />
