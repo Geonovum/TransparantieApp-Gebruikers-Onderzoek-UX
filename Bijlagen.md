@@ -307,7 +307,7 @@ Dit concept richt zich op gebruikers die ondersteuning nodig hebben. Het combine
 
 ## Bijlage C: Testscripts
 
-### Testscript-WOZ app getest
+Testscript-WOZ app getest
 
 ### **Doel van de gebruikerstest**
 
@@ -365,7 +365,7 @@ Voor de analyse zijn de volgende niveaus gehanteerd:
 
 Deze indeling is gebaseerd op de *levels of success* zoals beschreven door Nielsen Norman Group. Daarbij worden de categorieën afzonderlijk gerapporteerd en niet omgerekend naar één gemiddelde numerieke score, omdat de categorieën een ordinale schaal vormen.
 
-### **Toepassing binnen deze gebruikerstest**
+#### **Toepassing binnen deze gebruikerstest**
 
 Task completion is met name gebruikt bij taken waarbij de deelnemer zelfstandig een concreet doel moet bereiken, zoals het bereiken van het home scherm en het vinden van informatie over de WOZ-waardebepaling.
 
@@ -375,17 +375,17 @@ Bij meer verkennende taken, zoals het interpreteren van het navigatiemenu of het
 
 ### **Testtaken**
 
-Taak 1 – Eerste indruk
+#### Taak 1 – Eerste indruk
 
-### **Doel**
+**Doel**
 
 Onderzoeken of gebruikers op basis van de eerste pagina begrijpen wat het doel van de app is.
 
-### **Instructie aan deelnemer**
+**Instructie aan deelnemer**
 
 Dit is de eerste pagina die u ziet. Neem even rustig de tijd. Wat denkt u dat het doel is van deze app? Vertel dit in uw eigen woorden.
 
-### **Observatiepunten**
+**Observatiepunten**
 
 - Wat valt de deelnemer als eerste op?
 
@@ -399,17 +399,17 @@ Dit is de eerste pagina die u ziet. Neem even rustig de tijd. Wat denkt u dat he
 
 **Indicatieve tijd:** 1–2 minuten. De gemiddelde taakduur was circa 1 minuut en 15 seconden.
 
-Taak 2 – Inloggen en het homescherm bereiken
+#### Taak 2 – Inloggen en het homescherm bereiken
 
-### **Doel**
+**Doel**
 
 Onderzoeken of gebruikers zelfstandig kunnen inloggen en begrijpen hoe zij het hoofdscherm van de app bereiken.
 
-### **Scenario**
+**Scenario**
 
 De deelnemer heeft een brief ontvangen van de gemeente Amsterdam over de WOZ-waarde en wil meer informatie over het gegevensproces.
 
-### **Instructie aan deelnemer**
+**Instructie aan deelnemer**
 
 U heeft een brief ontvangen van de gemeente Amsterdam over uw WOZ-waarde en wilt meer informatie over het gegevensproces. Denk hardop terwijl u de stappen doorloopt. Vertel wat u ziet op het scherm en wat u denkt dat er van u wordt verwacht.
 
@@ -421,7 +421,7 @@ U heeft een brief ontvangen van de gemeente Amsterdam over uw WOZ-waarde en wilt
 
 4.  Ga door totdat u het home scherm ziet.
 
-### **Observatiepunten**
+**Observatiepunten**
 
 - Is duidelijk waar de deelnemer moet inloggen?
 
@@ -435,17 +435,17 @@ U heeft een brief ontvangen van de gemeente Amsterdam over uw WOZ-waarde en wilt
 
 **Indicatieve tijd:** 1–2 minuten. De gemiddelde taakduur was circa 1 minuut en 30 seconden.
 
-Taak 3 – Begrip van de navigatie
+#### Taak 3 – Begrip van de navigatie
 
-### **Doel**
+**Doel**
 
 Onderzoeken of de navigatiestructuur en benaming van de verschillende onderdelen aansluiten bij de verwachtingen van gebruikers.
 
-### **Instructie aan deelnemer**
+**Instructie aan deelnemer**
 
 Kijk naar het navigatiemenu. Vertel kort hardop per knop wat u verwacht te zien wanneer u op deze knop klikt.
 
-### **Observatiepunten**
+**Observatiepunten**
 
 - Wat verwacht de deelnemer achter ieder navigatie-item?
 
@@ -459,21 +459,21 @@ Kijk naar het navigatiemenu. Vertel kort hardop per knop wat u verwacht te zien 
 
 **Indicatieve tijd:** 1–2 minuten. De gemiddelde taakduur was circa 1 minuut en 8 seconden.
 
-Taak 4 – Informatie over de WOZ-waardebepaling vinden
+#### Taak 4 – Informatie over de WOZ-waardebepaling vinden
 
-### **Doel**
+**Doel**
 
 Onderzoeken of gebruikers zelfstandig kunnen vinden welke gegevens zijn gebruikt voor het bepalen van hun WOZ-waarde. Deze taak richt zich direct op het onderdeel vindbaarheid van de hoofdvraag.
 
-### **Scenario**
+**Scenario**
 
 De deelnemer heeft een brief ontvangen van de gemeente Amsterdam over de WOZ-waarde en wil weten welke gegevens de gemeente heeft gebruikt om deze waarde te bepalen.
 
-### **Instructie aan deelnemer**
+**Instructie aan deelnemer**
 
 U heeft een brief ontvangen van de gemeente Amsterdam over uw WOZ-waarde en u wilt weten welke gegevens de gemeente heeft gebruikt om deze waarde te bepalen. Ga op zoek naar deze informatie. Vertel hardop op welke pagina u verwacht deze informatie te kunnen vinden.
 
-### **Observatiepunten**
+**Observatiepunten**
 
 - Waar zoekt de deelnemer als eerste?
 
@@ -489,21 +489,21 @@ U heeft een brief ontvangen van de gemeente Amsterdam over uw WOZ-waarde en u wi
 
 **Indicatieve tijd:** 1–2 minuten. De gemiddelde taakduur was circa 56 seconden.
 
-## Taak 5 – Begrip van gegevensuitwisseling
+#### Taak 5 – Begrip van gegevensuitwisseling
 
-### **Doel**
+**Doel**
 
 Onderzoeken of gebruikers begrijpen wat het overzicht van gegevensuitwisseling laat zien. Deze taak richt zich voornamelijk op het onderdeel begrijpelijkheid van de hoofdvraag.
 
-### **Startpunt**
+**Startpunt**
 
 WOZ-dossier → tabblad **Gegevensuitwisseling**.
 
-### **Instructie aan deelnemer**
+**Instructie aan deelnemer**
 
 U bent nu bij het WOZ-dossier. Bekijk de tab ‘Gegevensuitwisseling’. Wat laat dit overzicht volgens u zien? Vertel hardop.
 
-### **Observatiepunten**
+**Observatiepunten**
 
 - Begrijpt de deelnemer wat het overzicht als geheel laat zien?
 
@@ -521,7 +521,7 @@ U bent nu bij het WOZ-dossier. Bekijk de tab ‘Gegevensuitwisseling’. Wat laa
 
 - Is het detailniveau passend of overweldigend?
 
-### **Follow-up vragen**
+**Follow-up vragen**
 
 **1. Wat vindt u duidelijk aan dit scherm?**
 
@@ -529,31 +529,31 @@ U bent nu bij het WOZ-dossier. Bekijk de tab ‘Gegevensuitwisseling’. Wat laa
 
 **Indicatieve tijd:** 1–2 minuten voor de hoofdtaak. De gemiddelde taakduur was circa 1 minuut en 23 seconden.
 
-6\. Afsluitende vragen
+### 6\. Afsluitende vragen
 
 Na de taakgerichte onderdelen kregen deelnemers drie algemene vragen over hun ervaring met de app.
 
-Vraag 1 – Terminologie
+#### Vraag 1 – Terminologie
 
 Waren er termen in de app onduidelijk? Zo ja, welke?
 
-### **Doel**
+**Doel**
 
 Achterhalen welke vaktermen, afkortingen of formuleringen aanvullende uitleg nodig hebben.
 
-## Vraag 2 – Waardevolle functionaliteiten
+#### Vraag 2 – Waardevolle functionaliteiten
 
 Welke functies waardeert u het meest in de app?
 
-### **Doel**
+**Doel**
 
 Achterhalen welke informatie en functionaliteiten voor gebruikers de meeste toegevoegde waarde hebben.
 
-## Vraag 3 – Ontbrekende functionaliteiten
+#### Vraag 3 – Ontbrekende functionaliteiten
 
 Welke functies of opties mist u in de test of in de app?
 
-### **Doel**
+**Doel**
 
 Achterhalen welke informatie of functionaliteit gebruikers verwachten, maar nog niet terugvinden in het prototype.
 
@@ -579,7 +579,7 @@ De deelnemer bereikt het doel, maar ervaart aanzienlijke problemen, maakt een gr
 **Niet succesvol**
 De deelnemer bereikt het beoogde doel niet.
 
-### **Vindbaarheid**
+**Vindbaarheid**
 
 Naast het uiteindelijke taak resultaat is onderzocht:
 
@@ -593,7 +593,7 @@ Naast het uiteindelijke taak resultaat is onderzocht:
 
 - hoe lang het duurt om de informatie te vinden.
 
-### **Begrijpelijkheid**
+**Begrijpelijkheid**
 
 Vervolgens is onderzocht:
 
