@@ -222,7 +222,7 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
   />
   <img
      style="width:48%;height:auto"
-    src="./media/image4.png"
+    src="./media/10-gegevensuitwisseling-zoom-01.png"
     alt="Detailweergave van een gegevensuitwisselingsproces met de verschillende verwerkingsstappen."
   />
 </p>
