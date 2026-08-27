@@ -117,7 +117,7 @@ De TransparantieApp fungeert als verdiepingslaag op het dossieroverzicht van de 
 
 - Welke informatie is wel en niet relevant voor burgers?
 
-In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design voor algemene overheidsinstanties en een specifiek prototype gericht op de WOZ-waarde. Na evaluatie van beide richtingen is besloten om de focus in het verdere traject volledig te leggen op de casus 'WOZ-waarde'. Deze afbakening maakt het mogelijk om het ontwerp specifieker, en daardoor beter testbaar, te maken voor eindgebruikers binnen een herkenbare context. Voor het algemene design, zie prototype 1. Voor het meer specifieke design voor WOZ case, zie prototype 2.
+In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design voor algemene overheidsinstanties en een specifiek prototype gericht op de WOZ-waarde. Na evaluatie van beide richtingen is besloten om de focus in het verdere traject volledig te leggen op de casus 'WOZ-waarde'. Deze afbakening maakt het mogelijk om het ontwerp specifieker, en daardoor beter testbaar, te maken voor eindgebruikers binnen een herkenbare context. Voor het algemene design, zie prototype 1. Voor het meer specifieke design voor de WOZ casus, zie prototype 2.
 
 #### Prototype 1: Overzicht algemeen design
 
@@ -200,7 +200,7 @@ In deze fase zijn twee verschillende prototypes ontwikkeld: een generiek design 
 
 
 
-### Prototype 2: Overzicht WOZ -gerichte design
+#### Prototype 2: Overzicht WOZ -gerichte design
 <p style="text-align:center">
   <img
     src="./media/image26.png"
@@ -562,7 +562,7 @@ Om deze ontwerpiteratie te evalueren is een A/B-test uitgevoerd en is via kwalit
 
 #### Kwantitatieve resultaten (A/B-test)
 
-#### Algemene conclusies kwantitatieve analyse
+##### Algemene conclusies kwantitatieve analyse
 
 De applicatie wordt in het algemeen als ruim bovengemiddeld overzichtelijk beschouwd: gemiddeld tussen de twee versies een 5.7/7, oftewel een score van 81%. Dit getal weerspiegelt zich ook in het slagingspercentage van de taken, 84% in beide versies.
 
@@ -570,7 +570,7 @@ Het ervaren gemak van het uitvoeren van de taken (en dus van het opzoeken van di
 
 Dit alles samengenomen suggereert dat, ongeacht de versie, het gedeelte gegevensuitwisselingen van de applicatie als overzichtelijk, duidelijk en goed bruikbaar zonder al te veel verwarring en vertraging wordt ervaren.
 
-#### Vergelijkende conclusies kwantitatieve analyse
+##### Vergelijkende conclusies kwantitatieve analyse
 
 Qua gemiddeld gerapporteerd gebruiksgemak lagen de tijdlijnversie en de organisatieversie dicht bij elkaar, respectievelijk een 5.32 en een 5.48. Ook wat de verdere geaggregeerde data betreft scoorden beide versies vergelijkbaar, met een 5.6 (tijdlijn) en een 5.8 (organisatie) voor overzichtelijkheid, een gemiddelde tijd per taak van 65,72 seconden (tijdlijn) en 63,21 seconden (organisatie), en een identiek slagingspercentage van 84%.
 
@@ -618,7 +618,7 @@ De laatste taak, het uitzoeken welke organisaties betrokken waren bij de meest r
 
 Samenvattend: beide versies scoren gemiddeld goed en vergelijkbaar, met een lichte voorkeur voor de organisatieversie, en beide versies hebben één duidelijk voordeel ten opzichte van de ander. De tijdlijnversie maakt het significant makkelijker om een overzicht van de tijdlijn te downloaden, en de organisatieversie maakt het significant makkelijker om alle data per organisatie te vinden. Dit suggereert dat beide versies acceptabel zijn, en dat toegang tot beide versies het beste zou zijn voor de eindgebruiker.
 
-### Kwalitatieve en suggesties van andere researcher
+### Kwalitatieve analyse en suggesties van andere researcher
 
 Het is duidelijk dat er nog wat initiële verwarring is op het eerste scherm met de vele opties, maar toch vinden de meeste gebruikers het uiteindelijk goed bruikbaar. Ook wordt terecht genoemd dat er op het moment veel tekst en weinig andere visuele vormgeving wordt gebruikt, waarschijnlijk kan de usability nog significant verbeteren door dit aan te passen.
 
@@ -628,7 +628,7 @@ Waarschijnlijk is de beste optie om gebruikers zowel een tijdlijn overzicht als 
 
 #### Resultaten kwalitatieve analyse
 
-#### Gegevensuitwisseling versus documenten
+**Gegevensuitwisseling versus documenten**
 
 Uit de gebruikerstest blijkt dat de knop **Gegevensuitwisseling** over het algemeen goed vindbaar is. Van de tien deelnemers vonden er acht direct de juiste plek en uiteindelijk slaagden per variant vier van de vijf deelnemers erin om de gevraagde informatie te vinden. Tegelijkertijd blijkt dat de mentale verwachting van gebruikers niet altijd overeenkomt met de gekozen navigatiestructuur. Vier van de tien deelnemers gaven aan dat het slechts gedeeltelijk duidelijk was waar ze moesten zoeken, één van de tien gaf aan dat het totaal niet duidelijk was.
 
@@ -644,11 +644,11 @@ In hun uitweiding over waar deelnemers hadden verwacht te moeten zoeken werden v
   <figcaption>Aantal keren dat een specifieke locatie werd genoemd tijdens het zoeken naar de verwijsbrief.</figcaption>
 </figure>
 
-#### Ontvangers, verzenders en betrokken partijen
+**Ontvangers, verzenders en betrokken partijen**
 
 Hoewel deelnemers de informatie over de verwijsbrief over het algemeen konden vinden via **Gegevensuitwisseling**, bleek het interpreteren van de informatie minder intuïtief. Meerdere deelnemers twijfelden over welke organisatie de verwijsbrief had gedeeld en welke organisatie deze had ontvangen. De aanwezigheid van meerdere betrokken organisaties, waaronder verschillende huisartspraktijken, en de lijst met **betrokken partijen** maakten dit onderscheid niet direct duidelijk. Hierdoor moesten deelnemers zelf de richting van de gegevensuitwisseling afleiden. Daarnaast gaf een deelnemer aan de voorkeur te hebben voor een documentgericht overzicht, waarin per document direct zichtbaar is wie het heeft gedeeld en wie het heeft ontvangen of ingezien, in plaats van een overzicht dat is gegroepeerd per organisatie.
 
-#### Begrip van de applicatie
+**Begrip van de applicatie**
 
 **8 van de 10 deelnemers** beschreven correct wat er tijdens de gegevensuitwisseling was gebeurd. Zij benoemden dat zij konden zien welke gegevens worden gedeeld, wanneer deze waren uitgewisseld, met welke zorgverlener of organisatie en om welke documenten het ging. Dit laat zien dat de kernfunctie van de pagina goed wordt begrepen.
 
@@ -658,11 +658,11 @@ Alle **10 deelnemers (100%)** gaven aan de functie zelf te willen gebruiken. Daa
 
 Deze resultaten sluiten goed aan bij de bevindingen uit de usability test. De vindbaarheid van de functie is goed, terwijl de grootste verbeterkansen liggen in de presentatie en interpretatie van de informatie op de pagina.
 
-#### Taalgebruik
+**Taalgebruik**
 
 Het taalgebruik werd overwegend als duidelijk ervaren. **9 van de 10 deelnemers** gaven aan dat de gebruikte termen en beschrijvingen begrijpelijk waren en dat de informatie helder was geformuleerd. Wel noemde **1 deelnemer** de term **'verwijsbrief'** als onduidelijk. Ze gaf aan niet direct te weten wat deze term betekende en stelden voor om deze toe te lichten of van een korte uitleg te voorzien. Daarnaast merkte **1 deelnemer** op dat twee termen rondom uitslagen op elkaar leken, waardoor hierover kortstondig verwarring ontstond. Over het algemeen werd het taalgebruik echter als eenvoudig en duidelijk ervaren.
 
-#### Vinden van de organisatie
+**Vinden van de organisatie**
 
 Vanuit de kwalitatieve analyse wordt het duidelijk dat men via het organisatiescherm makkelijk de groepering van organisaties vindt via een filter. Het is de hypothese dat filteren een complexere interactie is dan het onderdeel maken van de flow. Hier zijn een aantal mogelijke oorzaken voor, zie de onderstaande tabel.
 
