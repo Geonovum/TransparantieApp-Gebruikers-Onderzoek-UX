@@ -494,12 +494,12 @@ Dit concept combineert uitleg, begeleiding en hulp in één toegankelijke ervari
 [<u>https://carve-bagel-18994557.figma.site</u>](https://carve-bagel-18994557.figma.site/)
 
 <figure>
-  <img src="./media/image9.jpg" style="width:100%;height:auto" alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers." />
+  <img src="./media/image9v2.jpg" style="width:100%;height:auto" alt="Conceptschets voor Hulp en Begeleiding, gericht op toegankelijke navigatie voor kwetsbare burgers." />
   <figcaption>Conceptschets voor ‘Hulp & Begeleiding’, met focus op toegankelijke navigatie voor kwetsbare burgers.</figcaption>
 </figure>
 
 <figure>
-  <img src="./media/image1.jpg" style="width:100%;height:auto" alt="Uitwerking van het helpcentrum en de interactieve tour." />
+  <img src="./media/image1v2.jpg" style="width:100%;height:auto" alt="Uitwerking van het helpcentrum en de interactieve tour." />
   <figcaption>Uitwerking van het helpcentrum en de interactieve tour om de gebruiker stapsgewijs te ondersteunen.</figcaption>
 </figure>
 
@@ -551,7 +551,7 @@ Om de impact van de informatiearchitectuur op de begrijpelijkheid te valideren, 
 <p style="text-align:center">
   <img
     src="./media/image8.png"
-    style="width:100%;height:auto"
+    style="width:50%;height:auto"
     alt="Overzicht van gegevensuitwisselingen met een keuzeschakelaar tussen Organisaties en Tijdlijn."
   />
 </p>
