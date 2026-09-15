@@ -16,7 +16,7 @@ Dit onderzoek heeft een iteratieve *Design Thinking*-aanpak gevolgd, bestaande u
 
 **Het onderzoek leidt tot drie fundamentele conclusies die de basis vormen voor de verdere ontwikkeling van de TransparantieApp:**
 
-1.  **Transparantie is contextueel begrjipen, geen kwantiteit rauw data:** Burgers zoeken niet naar rauwe logbestanden, maar naar het 'waarom' van een besluit. Succesvolle transparantie vertaalt technische logging naar begrijpelijke 'gebeurtenissen', bijvoorbeeld door een doorverwijzing van een huisarts. .Deelnemers uit het onderzoek hadden vooral behoefte aan een begrijpelijk overzicht, uitleg over gebeurtenissen en duidelijkheid over ontbrekende informatie.
+1.  **Transparantie is contextueel begrijpen, geen kwantiteit:** Burgers zoeken niet naar rauwe logbestanden, maar naar het 'waarom' van een besluit. Succesvolle transparantie vertaalt technische logging naar begrijpelijke 'gebeurtenissen', bijvoorbeeld door een doorverwijzing van een huisarts. .Deelnemers uit het onderzoek hadden vooral behoefte aan een begrijpelijk overzicht, uitleg over gebeurtenissen en duidelijkheid over ontbrekende informatie.
 
 2.  ***Progressive Disclosure* als architectuur:** Complexe data moet gelaagd worden aangeboden. In dit geval dient een chronologische tijdlijn als basis, met opties voor verdieping wanneer de burger dit wenst.
 
@@ -34,7 +34,7 @@ Dit onderzoek heeft een iteratieve *Design Thinking*-aanpak gevolgd, bestaande u
 
   - Hanteer begrijpelijke taal met B1 als taalniveau om technisch jargon te elimineren.
 
-  - Waarborg dat alle ontwerpen voldoen aan de **WCAG 2.2 Level C**-norm voor maximale toegankelijkheid.
+  - Waarborg dat alle ontwerpen voldoen aan de **WCAG 2.2 Level AAA**-norm voor maximale toegankelijkheid.
 
 - **Strategie & Implementatie:**
 

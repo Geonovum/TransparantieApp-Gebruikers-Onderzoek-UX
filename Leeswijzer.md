@@ -28,4 +28,4 @@ Afhankelijk van je rol en interessegebied adviseren wij de volgende leesroutes:
 
 ### Structuur van het proces
 
-Het ontwerpproces is opgedeeld in cycli. Houd er bij het lezen rekening mee dat resultaten uit de eerste cyclus (3.1) direct hebben geleid tot aanpassingen in de tweede (3.2) en derde (3.3) cyclus. Termen die onduidelijk zijn, kun je altijd terugvinden in de Woordenlijst (Hoofdstuk 7) achterin dit document.
+Het ontwerpproces is opgedeeld in cycli. Houd er bij het lezen rekening mee dat resultaten uit de eerste cyclus (3.1) direct hebben geleid tot aanpassingen in de tweede (3.2) en derde (3.3) cyclus. Termen die onduidelijk zijn, kun je altijd terugvinden in de Woordenlijst (Hoofdstuk 8) achterin dit document.
