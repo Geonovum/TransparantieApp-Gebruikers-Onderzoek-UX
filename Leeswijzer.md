@@ -4,11 +4,11 @@
 
 Deze rapportage is de documentversie die is afgeleid van de Github omgeving, waar het overzicht staat van het totale project. Dit gaat dan ook specifiek om de UX rapportage, terwijl het onderzoek breder is. Het totale project bestaat uit drie onderdelen of documenten:
 
-| **Naam**                         | **publicatie** | **werkversie**                                                       | **github**                                                           |
-|----------------------------------|----------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| TransparantieApp rapport         |                | https://geonovum.github.io/TransparantieApp/                         | https://github.com/Geonovum/TransparantieApp                         |
-| Gebruikersonderzoek en UX design |                | https://geonovum.github.io/TransparantieApp-Gebruikers-Onderzoek-UX/ | https://github.com/Geonovum/TransparantieApp-Gebruikers-Onderzoek-UX |
-| Applicatie Architectuur          |                | https://geonovum.github.io/TransparantieApp-Applicatie-Architectuur/ | https://github.com/Geonovum/TransparantieApp-Applicatie-Architectuur |
+| **Naam**                         | **publicatie**                                            | **werkversie**                                                       | **github**                                                           |
+|----------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| TransparantieApp rapport         | https://docs.geostandaarden.nl/ldv/transparantieapp       | https://geonovum.github.io/TransparantieApp/                         | https://github.com/Geonovum/TransparantieApp                         |
+| Gebruikersonderzoek en UX design | https://docs.geostandaarden.nl/ldv/transparantieapp-go-ux | https://geonovum.github.io/TransparantieApp-Gebruikers-Onderzoek-UX/ | https://github.com/Geonovum/TransparantieApp-Gebruikers-Onderzoek-UX |
+| Applicatie Architectuur          | https://docs.geostandaarden.nl/ldv/transparantieapp-arch  | https://geonovum.github.io/TransparantieApp-Applicatie-Architectuur/ | https://github.com/Geonovum/TransparantieApp-Applicatie-Architectuur |
 
 
 
