@@ -1,1 +1,5 @@
-TODO: vul in abstract.md een abstract in.
+Deze bijlage beschrijft het gebruikersonderzoek en het UX-ontwerp voor de TransparantieApp. De hoofdvraag is hoe transparantie over datagebruik en besluitvorming door de overheid gebruiksvriendelijk kan worden vormgegeven, zonder burgers te overvragen met informatie en aansluitend bij hun uiteenlopende behoeften.
+
+Het onderzoek volgde een iteratieve Design Thinking-aanpak met de fasen Ideate, Define, Realize en Evaluate. Via kwalitatief onderzoek, co-creatie met experts van Logius en Digicampus en usabilitytesten rond de WOZ- en de PGO-casus zijn de behoeften van uiteenlopende burgerprofielen in kaart gebracht, van de Inzagezoeker tot de Kwetsbare burger, en vertaald naar concrete ontwerpconcepten.
+
+Dat leidt tot drie conclusies. Transparantie is een kwestie van context en niet van kwantiteit: burgers zoeken geen rauwe logregels, maar het 'waarom' achter een besluit, vertaald naar herkenbare gebeurtenissen. Informatie moet gelaagd worden aangeboden, met een chronologische tijdlijn als primair navigatiemodel en verdieping op verzoek. En een ontwerp dat werkt voor de kwetsbare burger — heldere structuur, B1-taalniveau en proactieve hulp — blijkt in de praktijk de meest effectieve standaard voor alle gebruikers.
