@@ -70,22 +70,7 @@ let respecConfig = {
   authors:
     [
       {
-        name: "Frank Terpstra",
-        company: "Geonovum",
-        companyURL: "https://www.geonovum.nl",
-      },
-	  {
         name: "Carmen Burghardt",
-        company: "Geonovum",
-        companyURL: "https://www.geonovum.nl",
-      },
-	  {
-        name: "Henk Erik van der Hoek",
-        company: "Geonovum",
-        companyURL: "https://www.geonovum.nl",
-      },
-	  {
-        name: "Klaas van Veelen",
         company: "Geonovum",
         companyURL: "https://www.geonovum.nl",
       }
@@ -93,7 +78,7 @@ let respecConfig = {
 
   // TODO: Vul de github URL in.
   //neem hier de URL van de github repository op waar het respec document in staat
-  github: "https://github.com/Geonovum/TransparantieApp-Applicatie-Architectuur",
+  github: "https://github.com/Geonovum/TransparantieApp-Gebruikers-Onderzoek-UX",
 
   // Create PDF and link to file in header (optional):
   // TODO: Change the filename as preferred.

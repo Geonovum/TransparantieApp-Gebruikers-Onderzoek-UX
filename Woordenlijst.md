@@ -36,6 +36,6 @@ Hieronder volgt een overzicht van de in dit onderzoek gehanteerde begrippen en m
 
 - **VO-Rijk app:** Vorderingen Overzicht Rijk-app; de referentie-applicatie voor de transparantie-app wat betreft beveiliging en flow.
 
-- **WCAG 2.2 Level AA:** Een internationale toegankelijkheidsnorm voor webcontent, gericht op maximale digitale toegankelijkheid.
+- **WCAG 2.2 Level AA:** Een internationale toegankelijkheidsnorm voor webcontent. AA is het middelste van de drie conformiteitsniveaus (A, AA, AAA).
 
 - **WOZ-waarde:** Waardering Onroerende Zaken; een van de use cases in dit onderzoek gebruikt om het abstracte concept van datalogging tastbaar te maken.

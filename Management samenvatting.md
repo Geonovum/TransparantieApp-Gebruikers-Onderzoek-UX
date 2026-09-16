@@ -34,7 +34,7 @@ Dit onderzoek heeft een iteratieve *Design Thinking*-aanpak gevolgd, bestaande u
 
   - Hanteer begrijpelijke taal met B1 als taalniveau om technisch jargon te elimineren.
 
-  - Waarborg dat alle ontwerpen voldoen aan de **WCAG 2.2 Level AAA**-norm voor maximale toegankelijkheid.
+  - Waarborg dat alle ontwerpen voldoen aan de **WCAG 2.2 Level AA**-norm voor digitale toegankelijkheid.
 
 - **Strategie & Implementatie:**
 
