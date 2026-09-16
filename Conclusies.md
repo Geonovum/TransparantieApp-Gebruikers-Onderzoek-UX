@@ -34,7 +34,7 @@ Op basis van de conclusie dat transparantie succesvol is wanneer deze gelaagd en
 
 **3. Maak 'Hulp' onderdeel van de flow:** Ontwikkel de 'Els'-functionaliteit verder om proactieve begeleiding ("Wat moet ik nu doen?") te bieden bij elk besluit.
 
-**4. Voldoe aan WCAG 2.2 Level AA:** De TransparantieApp moet voldoen aan de strengste toegankelijkheidsnormen (WCAG 2.2 Level AA). Dit waarborgt dat de app voor elke burger, inclusief mensen met een visuele of motorische beperking, volledig toegankelijk is.
+**4. Voldoe aan WCAG 2.2 Level AA:** De TransparantieApp moet voldoen aan de toegankelijkheidsnorm WCAG 2.2 op conformiteitsniveau AA. Dit waarborgt dat de app voor elke burger, inclusief mensen met een visuele of motorische beperking, volledig toegankelijk is.
 
 ### **Strategie & Implementatie**
 
